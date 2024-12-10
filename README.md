@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Praise Masunga (@PraiseTechzw)  
 
 ### 🌟 Welcome to my GitHub!  
-I'm a **Computer Science enthusiast**, passionate about **building innovative software solutions** that solve real-world problems. With expertise in mobile, web, and AI-driven applications, I strive to create impactful, user-centric systems.
+I'm a **Tech enthusiast**, passionate about **building innovative software solutions** that solve real-world problems. With expertise in mobile, web, and AI-driven applications, I strive to create impactful, user-centric systems.
 
 ---
 
