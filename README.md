@@ -30,8 +30,8 @@ I'm open to working on:
 
 ## 📬 Connect with Me  
 - 🌟 **LinkedIn**: [Praise Masunga](https://www.linkedin.com/in/praise-masunga)  
-- 💌 **Email**: [praisetechzw@example.com](mailto:praisetechzw@example.com)  
-- 🌐 **Portfolio**: [Appixia Softwares](https://appixia.co.zw)  
+- 💌 **Email**: [praisetechzw@example.com](mailto:info@praisetech.xyz)  
+- 🌐 **Portfolio**: [Appixia Softwares](https://rb.gy/r68m7b)  
 
 ---
 
