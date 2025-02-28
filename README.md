@@ -1,27 +1,106 @@
-# 💫 About Me:
-👋 Hello, I'm Praise Masunga (@PraiseTechzw)<br>🌟 Welcome to my GitHub!<br>I'm a Tech enthusiast, passionate about building innovative software solutions that solve real-world problems. With expertise in mobile, web, and AI-driven applications, I strive to create impactful, user-centric systems.<br><br>🚀 About Me<br>🔧 Problem-Solver: I enjoy tackling complex challenges and turning ideas into reality.<br>💡 Innovator: Always exploring new technologies to create cutting-edge solutions.<br>🌐 Tech Enthusiast: Skilled in Flutter, Next.js, and AI integrations.<br>🌱 Currently Learning<br>Java Development: Crafting scalable backend and desktop applications.<br>AI/ML: Enhancing systems with data-driven insights and automation.<br>Next.js: Modern web apps with server-side rendering and dynamic features.<br>Flutter: Advanced mobile app development for Android and iOS.<br>🤝 Let's Collaborate!<br>I'm open to working on:<br><br>🔍 Open-source projects: Especially in AI, web, and mobile technologies.<br>🌐 SaaS platforms: Solving unique industry challenges.<br>📱 Mobile/Web Apps: Using cutting-edge frameworks like Flutter and Next.js.<br>📬 Connect with Me<br>🌟 LinkedIn: Praise Masunga<br>💌 Email: praisetechzw@gmail.com<br>🌐 Company: Appixia Softwares<br>🌐 Portfolio: PraiseTech<br>😄 Pronouns<br>He/Him<br><br>⚡ Fun Facts<br>📚 I enjoy reading novels and diving into thrilling action series like Prison Break and The Blacklist.<br>🏐 I’m a pretty good volleyball player.<br>🎶 I love music and exploring creative ways to integrate technology into everyday life.<br>✨ "Transforming Ideas into Reality, One Line of Code at a Time."
+# 💫 About Me
+👋 Hello, I’m **Praise Masunga** (a.k.a @PraiseTechzw)  
+🌟 A passionate **Software Developer** focused on delivering innovative solutions that solve real-world problems.
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Badge Name](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Praisetechzw &theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Praisetechzw &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Praisetechzw &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Praisetechzw &theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Praisetechzw &limit=5&theme=dark&combine_all_yearly_contributions=true)
+I specialize in:
+- 📱 **Mobile Development** (Flutter, React Native)
+- 🌐 **Web Development** (Next.js, TypeScript)
+- ☁️ **Cloud Platforms** (Firebase, Google Cloud, DigitalOcean)
+- 🤖 **AI & ML** (TensorFlow, Scikit-learn, PyTorch)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Praisetechzw &icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 What I Do
+- **Problem Solver:** I thrive on solving complex problems with elegant solutions.
+- **Innovator:** Continuously exploring and integrating new technologies.
+- **Tech Explorer:** Strong passion for **Mobile, Web, AI, and Cloud Technologies**.
+
+---
+
+## 📚 Currently Exploring
+- **Advanced Flutter Techniques** for performance optimization.
+- **Next.js 14** — focusing on **App Router** and **server actions**.
+- **Java Development** for building scalable backend & desktop systems.
+- **Machine Learning & AI** — working on integrating AI into practical apps.
+
+---
+
+## 🤝 Collaboration Opportunities
+Let’s team up if you’re working on:
+- 🔗 **Open-source Projects** (especially in AI, Web, or Mobile).
+- 📊 **SaaS Platforms** solving industry-specific challenges.
+- 📱 **Mobile Apps** with modern UI/UX and advanced functionality.
+
+---
+
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-masunga/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)  
+🌐 Portfolio: [PraiseTech](#) | Company: [Appixia Softwares](#)
+
+---
+
+## 💻 Tech Stack
+### Languages & Frameworks
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+
+### Frontend
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Cloud & DevOps
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praisetechzw&theme=radical&show_icons=true&count_private=true)
+![Praise's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praisetechzw&theme=radical&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praisetechzw&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Praisetechzw&theme=radical&margin-w=4&no-frame=true)
+
+---
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repos
+![Top Repos](https://github-contributor-stats.vercel.app/api?username=Praisetechzw&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
+## 🌍 Fun Facts About Me
+- 📚 I love reading novels & tech blogs.
+- 🎥 Fan of **Prison Break** and **The Blacklist**.
+- 🏐 Solid volleyball player.
+- 🎶 Music keeps me inspired during coding sprints.
+- ✨ Motto: _"Transforming Ideas into Reality, One Line of Code at a Time."_
+
+---
+
+## 🔗 Profile Views
+[![](https://visitcount.itsvg.in/api?id=Praisetechzw&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+**Crafted with passion using [GPRM](https://gprm.itsvg.in)**
