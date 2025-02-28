@@ -1,5 +1,6 @@
 # 💫 About Me:
 [![committers.top badge](https://user-badge.committers.top/zimbabwe/Praisetechzw.svg)](https://committers.top/zimbabwe)
+
 👋 Hello, I’m **Praise Masunga** (a.k.a @PraiseTechzw)  
 🌟 A passionate **Software Developer** focused on delivering innovative solutions that solve real-world problems.
 
