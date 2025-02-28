@@ -45,17 +45,12 @@ Welcome to my GitHub! I'm a passionate **Tech Enthusiast** driven by innovation 
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-... and many more.
-
 ---
 
-## ✍️ Praise Masunga's Dev Quotes
-> Transforming Ideas into Reality, One Line of Code at a Time.  
-> Every great developer you know got there by solving problems they were unqualified to solve until they did it.  
-> First, solve the problem. Then, write the code.  
-> Code is like humor. When you have to explain it, it's bad.
-
-*(Want this to auto-update with a new quote daily? I can generate a GitHub Action for you!)*
+## ✍️ Praise Masunga's Daily Dev Quote
+<!-- START_QUOTE -->
+> First, solve the problem. Then, write the code.
+<!-- END_QUOTE -->
 
 ---
 
@@ -90,4 +85,4 @@ Welcome to my GitHub! I'm a passionate **Tech Enthusiast** driven by innovation 
 
 **_"Let's transform the world — one line of code at a time."_**
 
-<!-- Created with ❤️ by Praise Masunga (@PraiseTechzw) - Powered by Appixia Softwares (https://appixia.co.zw) -->
+<!-- Created with ❤️ by Praise Masunga (@PraiseTechzw) - Powered by GPRM (https://gprm.itsvg.in) -->
