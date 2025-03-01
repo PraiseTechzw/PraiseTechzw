@@ -107,4 +107,6 @@ Let’s team up if you’re working on:
 
 ---
 
-**Crafted with passion using [GPRM](https://gprm.itsvg.in)**
+### ⚡ Crafted with Love
+
+> 💜 **Crafted by [Praisetech](https://github.com/Praisetechzw)**  
