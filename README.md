@@ -1,6 +1,6 @@
 # 💫 About Me:
 [![committers.top badge](https://user-badge.committers.top/zimbabwe_private/Praisetechzw.svg)](https://committers.top/zimbabwe_private/PraiseTechzw) 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.PraiseTechzw)
 
 
 👋 Hello, I’m **Praise Masunga** (a.k.a @PraiseTechzw)  
