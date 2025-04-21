@@ -1,5 +1,6 @@
 # 💫 About Me:
-[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/Praisetechzw.svg)](https://committers.top/zimbabwe_private/PraiseTechzw) 
+[![committers.top badge](https://user-badge.committers.top/zimbabwe/Praisetechzw.svg)](https://committers.top/zimbabwe/PraiseTechzw) 
+[![committers.top badge](https://user-badge.committers.top/worldwide/Praisetechzw.svg)](https://committers.top/worldwide/PraiseTechzw)
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.PraiseTechzw)
 
 
