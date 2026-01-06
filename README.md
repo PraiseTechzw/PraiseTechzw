@@ -1,55 +1,51 @@
-
-
-
-
-```markdown
-<div align="center">
-
-<!-- Badges -->
+# 💫 About Me:
 [![committers.top badge](https://user-badge.committers.top/zimbabwe/PraiseTechzw.svg)](https://committers.top/zimbabwe/PraiseTechzw) 
-[![committers.top badge](https://user-badge.committers.top/worldwide/PraiseTechzw.svg)](https://committers.top/worldwide/PraiseTechzw) 
+[![committers.top badge](https://user-badge.committers.top/worldwide/PraiseTechzw.svg)](https://committers.top/worldwide/PraiseTechzw)
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.PraiseTechzw)
 
-<!-- Profile Header -->
-### 👋 Hi, I’m **Praise Masunga** (a.k.a @PraiseTechzw)
 
-**🌟 Founder of [Campus Market](https://campusmarket.co.zw) | Software Developer | Tech Explorer**
+👋 Hello, I’m **Praise Masunga** (a.k.a @PraiseTechzw)  
+🌟 A passionate **Software Developer** focused on delivering innovative solutions that solve real-world problems.
 
-*I transform ideas into reality, one line of code at a time.*
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-masunga/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](#)
-
----
-
-## 🏢 Founder Spotlight
-
-**I am the Founder of Campus Market** (`campusmarket.co.zw`)
-*Building the future of student commerce, connecting students with goods, services, and opportunities within their university ecosystem.*
-
-[![Visit Campus Market](https://img.shields.io/badge/🌐%20Visit%20Site-Visit%20Now-brightgreen)](https://campusmarket.co.zw)
+I specialize in:
+- 📱 **Mobile Development** (Flutter, React Native)
+- 🌐 **Web Development** (Next.js, TypeScript)
+- ☁️ **Cloud Platforms** (Firebase, Google Cloud, DigitalOcean)
+- 🤖 **AI & ML** (TensorFlow, Scikit-learn, PyTorch)
 
 ---
 
 ## 🚀 What I Do
+- **Problem Solver:** I thrive on solving complex problems with elegant solutions.
+- **Innovator:** Continuously exploring and integrating new technologies.
+- **Tech Explorer:** Strong passion for **Mobile, Web, AI, and Cloud Technologies**.
 
-| Area | Expertise |
-| :--- | :--- |
-| **📱 Mobile Development** | Flutter, React Native (High performance & smooth animations) |
-| **🌐 Web Development** | Next.js 14 (App Router), TypeScript, Server Actions |
-| **☁️ Cloud & DevOps** | Firebase, Google Cloud, DigitalOcean, Vercel |
-| **🤖 AI & Machine Learning** | TensorFlow, Scikit-learn, PyTorch Integration |
+---
 
-### 🧭 Currently Exploring
-*   **Advanced Flutter** techniques for performance optimization.
-*   **Java Development** for scalable backend & desktop systems.
-*   **Integrating AI** into practical, everyday apps.
+## 📚 Currently Exploring
+- **Advanced Flutter Techniques** for performance optimization.
+- **Next.js 14** — focusing on **App Router** and **server actions**.
+- **Java Development** for building scalable backend & desktop systems.
+- **Machine Learning & AI** — working on integrating AI into practical apps.
+
+---
+
+## 🤝 Collaboration Opportunities
+Let’s team up if you’re working on:
+- 🔗 **Open-source Projects** (especially in AI, Web, or Mobile).
+- 📊 **SaaS Platforms** solving industry-specific challenges.
+- 📱 **Mobile Apps** with modern UI/UX and advanced functionality.
+
+---
+
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-masunga/)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)  
+🌐 Portfolio: [PraiseTech](#) | Company: [Appixia Softwares](#)
 
 ---
 
 ## 💻 Tech Stack
-
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -57,7 +53,7 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
-### Frontend & Mobile
+### Frontend
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -77,42 +73,43 @@
 ---
 
 ## 📊 GitHub Stats
-
 ![Praise's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Praisetechzw&theme=radical&show_icons=true&count_private=true)
-
 ![Praise's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Praisetechzw&theme=radical&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Praisetechzw&layout=compact&theme=radical)
 
+---
+
+## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Praisetechzw&theme=radical&margin-w=4&no-frame=true)
+
+---
+
+## ✍️ Praise Masunga's Daily Dev Quote
+<!-- START_QUOTE -->
+> First, solve the problem. Then, write the code.
+<!-- END_QUOTE -->
+
+---
+
+## 🔝 Top Contributed Repos
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=Praisetechzw&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
-## 🌍 Fun Facts & Interests
-
-* 🎥 **Fan of:** *Prison Break* and *The Blacklist*.
-* 🏐 **Sport:** Solid volleyball player.
-* 📚 **Hobbies:** Reading novels & keeping up with tech blogs.
-* 🎶 **Vibe:** Music keeps me inspired during coding sprints.
-
-> 💡 **Daily Dev Quote:** *"First, solve the problem. Then, write the code."*
+## 🌍 Fun Facts About Me
+- 📚 I love reading novels & tech blogs.
+- 🎥 Fan of **Prison Break** and **The Blacklist**.
+- 🏐 Solid volleyball player.
+- 🎶 Music keeps me inspired during coding sprints.
+- ✨ Motto: _"Transforming Ideas into Reality, One Line of Code at a Time."_
 
 ---
 
-## 🤝 Let's Collaborate
-
-I am open to collaborating on:
-* 🔗 **Open-source Projects** (AI, Web, or Mobile)
-* 📊 **SaaS Platforms** solving industry-specific challenges
-* 📱 **Mobile Apps** with modern UI/UX
-
+## 🔗 Profile Views
 [![](https://visitcount.itsvg.in/api?id=Praisetechzw&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
 
-<div align="center">
-**💜 Crafted with Love by [Praisetech](https://github.com/Praisetechzw)**
-</div>
+### ⚡ Crafted with Love
 
-</div>
-```
+> 💜 **Crafted by [Praisetech](https://github.com/Praisetechzw)**  
