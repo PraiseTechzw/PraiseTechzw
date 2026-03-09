@@ -218,13 +218,15 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraiseTechzw&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" height="180" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-stats-alpha.vercel.app/api?username=PraiseTechzw&cc=0d1117&tc=00eaff&ic=7928ca&bc=0d1117" height="180" alt="GitHub Stats" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=PraiseTechzw&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00eaff&fire=7928ca&currStreakLabel=00eaff&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,php,dart,kotlin,java,flutter,react,nextjs,nodejs,laravel,django,fastapi,prisma,postgres,mongodb,firebase,docker,aws,azure,gcp,vercel,git&perline=12&theme=dark" alt="Tech Skills" />
 
 </div>
 
@@ -234,7 +236,7 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praisetechzw&theme=github-compact&bg_color=0d1117&color=00eaff&line=7928ca&point=ffffff&area=true&hide_border=true&area_color=00eaff" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PraiseTechzw&theme=github-compact&bg_color=0d1117&color=00eaff&line=7928ca&point=ffffff&area=true&hide_border=true&area_color=00eaff" alt="Contribution Graph" />
 
 </div>
 
@@ -245,24 +247,24 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 <div align="center">
 
 <a href="https://github.com/PraiseTechzw/autopilot-cli">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praisetechzw&repo=autopilot-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=autopilot-cli&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/PraiseTechzw/Lunavo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praisetechzw&repo=Lunavo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=Lunavo&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/PraiseTechzw/recipe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praisetechzw&repo=recipe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=recipe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/PraiseTechzw/climate-space-zimbabwe-web">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praisetechzw&repo=climate-space-zimbabwe-web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=climate-space-zimbabwe-web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 
 <a href="https://github.com/PraiseTechzw/Snapit-preview">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praisetechzw&repo=Snapit-preview&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=Snapit-preview&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/PraiseTechzw/vendorpal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Praisetechzw&repo=vendorpal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=vendorpal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -273,15 +275,15 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Praisetechzw&theme=github_dark" width="100%" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PraiseTechzw&theme=github_dark" width="100%" alt="Profile Summary" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Praisetechzw&theme=github_dark" height="180" alt="Repos Per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PraiseTechzw&theme=github_dark" height="180" alt="Repos Per Language" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praisetechzw&theme=github_dark" height="180" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PraiseTechzw&theme=github_dark" height="180" alt="Most Commit Language" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Praisetechzw&theme=github_dark" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=PraiseTechzw&theme=github_dark" height="180" alt="Stats" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Praisetechzw&theme=github_dark&utcOffset=2" height="180" alt="Productive Time" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PraiseTechzw&theme=github_dark&utcOffset=2" height="180" alt="Productive Time" />
 
 </div>
 
@@ -291,9 +293,15 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg?style=for-the-badge)](https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce)
+<a href="https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce">
+  <img src="https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg?style=for-the-badge" alt="WakaTime Total" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=PraiseTechzw&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&layout=compact" alt="WakaTime Stats" />
+<br/><br/>
+
+<a href="https://wakatime.com/@PraiseTechzw">
+  <img src="https://wakatime.com/share/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce/c0b3dce7-d7c2-4849-9989-3abde7a3ae9f.svg" height="250" alt="WakaTime Languages Chart" />
+</a>
 
 </div>
 
