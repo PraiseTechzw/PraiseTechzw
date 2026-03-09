@@ -306,11 +306,8 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PraiseTechzw/PraiseTechzw/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PraiseTechzw/PraiseTechzw/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PraiseTechzw/PraiseTechzw/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/PraiseTechzw/PraiseTechzw/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
-> ⚡ *To enable the snake animation, add this GitHub Action to your profile repo:*
-> `.github/workflows/snake.yml` → [copy from here](https://github.com/Platane/snk)
 
 </div>
 
