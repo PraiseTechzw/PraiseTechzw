@@ -22,7 +22,9 @@
 &nbsp;
 <img src="https://visitor-badge.laobi.icu/badge?page_id=PraiseTechzw&label=Profile+Views&color=00eaff&style=flat-square" />
 &nbsp;
-[![wakatime](https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg?style=flat-square)](https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce)
+<a href="https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce">
+  <img src="https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg?style=flat-square" alt="WakaTime" />
+</a>
 
 <br/><br/>
 
@@ -216,13 +218,13 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Praisetechzw&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=PraiseTechzw&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" height="180" alt="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praisetechzw&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=8" height="180" alt="Top Languages" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Praisetechzw&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00eaff&fire=7928ca&currStreakLabel=00eaff" alt="Streak Stats" />
+<img src="https://streak-stats.demolab.com?user=PraiseTechzw&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00eaff&fire=7928ca&currStreakLabel=00eaff&sideLabels=c9d1d9&dates=c9d1d9" alt="Streak Stats" />
 
 </div>
 
@@ -316,25 +318,69 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 ## `> what_drives_me`
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:0a1628,100:0d1117&height=3&section=header" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                   │
-│   "Africa doesn't lack talent. It lacks infrastructure,          │
-│    opportunity, and the right tools in the right hands."         │
-│                                                                   │
-│   I build those tools.                                           │
-│                                                                   │
-│   Every app I ship, every repo I push, every line I commit       │
-│   is a small bet that technology can close that gap.             │
-│                                                                   │
-└─────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   💡  THE BELIEF THAT DRIVES EVERY LINE OF CODE                 ║
+║                                                                  ║
+║   "Africa doesn't lack talent.                                   ║
+║    It lacks infrastructure, opportunity,                         ║
+║    and the right tools in the right hands."                      ║
+║                                                                  ║
+║   So I build the tools.                                          ║
+║                                                                  ║
+║   A student building mental health platforms for students.       ║
+║   A Zimbabwean building climate tools for Zimbabwean farmers.    ║
+║   A developer shipping real software — not just portfolio apps.  ║
+║                                                                  ║
+║   Every commit is a small bet that tech can close the gap.       ║
+║   I'm playing the long game. 🌍                                  ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**Beyond the screen:**
-- 📚 Deep into novels + binge-worthy series (*Prison Break*, *The Blacklist*)
-- 🏐 Volleyball — ask me about my spike
-- 🎶 Music fuels the late-night builds
-- 🌍 On a mission to represent Zimbabwe in global tech
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🎯 **What I'm Building Toward** | |
+|---|---|
+| 🌍 | Represent Zimbabwe & Africa on the global tech stage |
+| 🚀 | Ship products that outlive the projects they started as |
+| 🤝 | Collaborate with builders who care about real-world impact |
+| 📦 | Grow `@traisetech/autopilot` into a widely-used open source tool |
+| 🎓 | Finish my BSc and come out with a portfolio that speaks louder |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Beyond the Screen
+
+&nbsp;
+![Reading](https://img.shields.io/badge/📚_Reading-Novels_%26_Tech_Books-0d1117?style=flat-square&labelColor=0d1117&color=00eaff)
+&nbsp;
+![TV](https://img.shields.io/badge/📺_Watching-Prison_Break_%7C_The_Blacklist-0d1117?style=flat-square&labelColor=0d1117&color=7928ca)
+&nbsp;
+![Sport](https://img.shields.io/badge/🏐_Sport-Volleyball-0d1117?style=flat-square&labelColor=0d1117&color=00eaff)
+&nbsp;
+![Music](https://img.shields.io/badge/🎶_Vibe-Music_fuels_the_builds-0d1117?style=flat-square&labelColor=0d1117&color=7928ca)
+
+</div>
 
 ---
 
