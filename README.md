@@ -299,10 +299,6 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 <br/><br/>
 
-<a href="https://wakatime.com/@PraiseTechzw">
-  <img src="https://wakatime.com/share/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce/c0b3dce7-d7c2-4849-9989-3abde7a3ae9f.svg" height="250" alt="WakaTime Languages Chart" />
-</a>
-
 </div>
 
 ---
