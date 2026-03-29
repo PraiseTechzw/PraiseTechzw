@@ -89,6 +89,7 @@ const praise: Developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
 
 ### ◈ Cloud, DevOps & AI
 
@@ -127,6 +128,24 @@ const praise: Developer = {
 The project I'm most proud of. An intelligent Git automation CLI that watches your filesystem, debounces changes, then commits and pushes while you stay in flow. Ships with AI-powered commit messages via Gemini/Grok, a real-time dashboard, undo command, team mode, conflict detection, secret scanning, and a productivity leaderboard. Published on npm as `@traisetech/autopilot`.
 
 `Node.js` `TypeScript` `JavaScript` `Gemini AI` `npm`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Stock App -->
+<table>
+<tr>
+<td width="55" align="center">📦</td>
+<td>
+
+**[Stock App](https://github.com/PraiseTechzw/stock)** &nbsp;·&nbsp; `34 commits` &nbsp;·&nbsp; ⭐ `2` &nbsp;·&nbsp; `TypeScript 99.7%`
+
+A comprehensive, offline-first stock and sales management system for vendors. Features real-time inventory tracking, detailed profit analytics with interactive charts, and secure local data persistence. Built with a focus on high-performance animations and seamless user experience.
+
+`React Native` `Expo` `TypeScript` `Drizzle ORM` `SQLite` `Zustand` `Reanimated`
 
 </td>
 </tr>
@@ -263,8 +282,8 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 <a href="https://github.com/PraiseTechzw/Snapit-preview">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=Snapit-preview&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
-<a href="https://github.com/PraiseTechzw/vendorpal">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=vendorpal&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+<a href="https://github.com/PraiseTechzw/stock">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=stock&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 
 </div>
