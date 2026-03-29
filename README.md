@@ -40,14 +40,16 @@
 const praise: Developer = {
   name:       "Praise Masunga",
   handle:     "@PraiseTechzw",
-  location:   "Zimbabwe 🇿🇼",
+  title:      "Software Developer & Tech Entrepreneur",
+  location:   "Harare, Zimbabwe 🇿🇼",
   education:  "BSc Information Technology — Chinhoyi University of Technology (2023–2027)",
+  experience: "2020 – Present",
   roles: [
     "Founder & CEO  →  Campus Market",
     "Engineer        →  Appixia Softwares",
     "Contributor     →  Zimandla, Ignite Africa",
   ],
-  focus:      ["Mobile Apps", "Web Platforms", "AI/ML Integration", "SaaS"],
+  focus:      ["Scalable Web/Mobile", "AI/ML Integration", "African Markets", "SaaS"],
   openTo:     ["Open Source", "Freelance", "Consulting", "Full-time Opportunities"],
   philosophy: "Ship things that matter. Code with empathy. Build for Africa — and beyond.",
 };
@@ -133,7 +135,7 @@ const praise: Developer = {
 <td width="55" align="center">🤖</td>
 <td>
 
-**[autopilot-cli](https://github.com/PraiseTechzw/autopilot-cli)** &nbsp;·&nbsp; `211 commits` &nbsp;·&nbsp; ⭐ `2` &nbsp;·&nbsp; 🍴 `2` &nbsp;·&nbsp; `v2.0.0` &nbsp;·&nbsp; [npm →](https://www.npmjs.com/package/@traisetech/autopilot)
+**[autopilot-cli](https://github.com/PraiseTechzw/autopilot-cli)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/autopilot-cli?style=flat-square&labelColor=0d1117&color=00eaff&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/autopilot-cli?style=flat-square&labelColor=0d1117&color=00eaff&label=forks) &nbsp;·&nbsp; [npm →](https://www.npmjs.com/package/@traisetech/autopilot)
 
 The project I'm most proud of. An intelligent Git automation CLI that watches your filesystem, debounces changes, then commits and pushes while you stay in flow. Ships with AI-powered commit messages via Gemini/Grok, a real-time dashboard, undo command, team mode, conflict detection, secret scanning, and a productivity leaderboard. Published on npm as `@traisetech/autopilot`.
 
@@ -151,7 +153,7 @@ The project I'm most proud of. An intelligent Git automation CLI that watches yo
 <td width="55" align="center">📡</td>
 <td>
 
-**[MeterProbe](https://github.com/PraiseTechzw/BLEDiagnosticConsole)** &nbsp;·&nbsp; ⭐ `0` &nbsp;·&nbsp; `Kotlin`
+**[MeterProbe](https://github.com/PraiseTechzw/BLEDiagnosticConsole)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/BLEDiagnosticConsole?style=flat-square&labelColor=0d1117&color=7928ca&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/BLEDiagnosticConsole?style=flat-square&labelColor=0d1117&color=7928ca&label=forks)
 
 A native Android BLE diagnostic and protocol discovery tool for electricity meters. Features an active BLE scanner, GATT explorer for proprietary characteristics, a safe traffic console for HEX payloads, and persistent traffic logging with export capabilities.
 
@@ -169,7 +171,7 @@ A native Android BLE diagnostic and protocol discovery tool for electricity mete
 <td width="55" align="center">🚍</td>
 <td>
 
-**[ZimBus](https://github.com/PraiseTechzw/zimbus---zimbabwe-bus-booking)** &nbsp;·&nbsp; ⭐ `0` &nbsp;·&nbsp; `TypeScript`
+**[ZimBus](https://github.com/PraiseTechzw/zimbus---zimbabwe-bus-booking)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/zimbus---zimbabwe-bus-booking?style=flat-square&labelColor=0d1117&color=00eaff&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/zimbus---zimbabwe-bus-booking?style=flat-square&labelColor=0d1117&color=00eaff&label=forks)
 
 Zimbabwe's premier bus booking platform. Features real-time route search, interactive seat selection with intuitive bus layouts, smart notifications, and a premium glassmorphic UI. Engineered for a seamless travel experience across the country.
 
@@ -187,7 +189,7 @@ Zimbabwe's premier bus booking platform. Features real-time route search, intera
 <td width="55" align="center">🏢</td>
 <td>
 
-**[Asset Register](https://github.com/PraiseTechzw/asset-register)** &nbsp;·&nbsp; `38 commits` &nbsp;·&nbsp; ⭐ `1` &nbsp;·&nbsp; `TypeScript 98.4%`
+**[Asset Register](https://github.com/PraiseTechzw/asset-register)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/asset-register?style=flat-square&labelColor=0d1117&color=7928ca&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/asset-register?style=flat-square&labelColor=0d1117&color=7928ca&label=forks)
 
 An enterprise-grade asset management system for the Zimbabwe Open University. Features QR-based asset tracking, role-based access control (RBAC), automated depreciation scheduling, and detailed audit logging. Built for scalability with a modern serverless edge database.
 
@@ -205,7 +207,7 @@ An enterprise-grade asset management system for the Zimbabwe Open University. Fe
 <td width="55" align="center">📦</td>
 <td>
 
-**[Stock App](https://github.com/PraiseTechzw/stock)** &nbsp;·&nbsp; `34 commits` &nbsp;·&nbsp; ⭐ `2` &nbsp;·&nbsp; `TypeScript 99.7%`
+**[Stock App](https://github.com/PraiseTechzw/stock)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/stock?style=flat-square&labelColor=0d1117&color=00eaff&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/stock?style=flat-square&labelColor=0d1117&color=00eaff&label=forks)
 
 A comprehensive, offline-first stock and sales management system for vendors. Features real-time inventory tracking, detailed profit analytics with interactive charts, and secure local data persistence. Built with a focus on high-performance animations and seamless user experience.
 
@@ -223,7 +225,7 @@ A comprehensive, offline-first stock and sales management system for vendors. Fe
 <td width="55" align="center">🧠</td>
 <td>
 
-**[Lunavo](https://github.com/PraiseTechzw/Lunavo)** &nbsp;·&nbsp; ⭐ `2` &nbsp;·&nbsp; `TypeScript 96.8%`
+**[Lunavo](https://github.com/PraiseTechzw/Lunavo)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/Lunavo?style=flat-square&labelColor=0d1117&color=7928ca&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/Lunavo?style=flat-square&labelColor=0d1117&color=7928ca&label=forks)
 
 A state-of-the-art mental wellness ecosystem built for university students at Chinhoyi University of Technology. Features real-time peer support chat, anonymous forum, daily mood check-ins, AI-powered wellness insights, crisis resources, and a full gamification engine — 14 badges, streak tracking, leaderboard, and level progression. Backend powered by Supabase with Row Level Security and end-to-end encrypted messaging. 15,000+ lines of code, 50+ components, 20+ database tables.
 
@@ -241,7 +243,7 @@ A state-of-the-art mental wellness ecosystem built for university students at Ch
 <td width="55" align="center">🍲</td>
 <td>
 
-**[Taste of Zimbabwe](https://github.com/PraiseTechzw/recipe)** &nbsp;·&nbsp; ⭐ `2` &nbsp;·&nbsp; [Play Store →](https://play.google.com/store/apps/details?id=com.appixiasoftwares.tasteofzimbabwe)
+**[Taste of Zimbabwe](https://github.com/PraiseTechzw/recipe)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/recipe?style=flat-square&labelColor=0d1117&color=00eaff&label=stars) &nbsp;·&nbsp; [Play Store →](https://play.google.com/store/apps/details?id=com.appixiasoftwares.tasteofzimbabwe)
 
 A premium culinary app dedicated to preserving Zimbabwean cuisine. Browse authentic traditional recipes (Sadza, Dovi, Muriwo), scan ingredients with your camera and get AI-generated recipes via Gemini, share community recipes in real-time, and switch between English, Shona, and Ndebele. Live on the Google Play Store.
 
@@ -259,7 +261,7 @@ A premium culinary app dedicated to preserving Zimbabwean cuisine. Browse authen
 <td width="55" align="center">📸</td>
 <td>
 
-**[Snapit](https://github.com/PraiseTechzw/Snapit-preview)** &nbsp;·&nbsp; ⭐ `1` &nbsp;·&nbsp; `Kotlin 100%` &nbsp;·&nbsp; `Active — 2 days ago`
+**[Snapit](https://github.com/PraiseTechzw/Snapit-preview)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/Snapit-preview?style=flat-square&labelColor=0d1117&color=7928ca&label=stars) &nbsp;·&nbsp; ![Forks](https://img.shields.io/github/forks/PraiseTechzw/Snapit-preview?style=flat-square&labelColor=0d1117&color=7928ca&label=forks)
 
 A modern, high-performance Android app for seamless media capture and screen recording. Features a draggable "Power Mode" floating bubble for instant camera or screen recording access from anywhere on the device — without leaving your current app. Built entirely with Jetpack Compose, CameraX and MediaProjection API. Clean MVVM architecture with Hilt dependency injection.
 
@@ -277,7 +279,7 @@ A modern, high-performance Android app for seamless media capture and screen rec
 <td width="55" align="center">🌍</td>
 <td>
 
-**[Climate Space Zimbabwe](https://github.com/PraiseTechzw/climate-space-zimbabwe-web)** &nbsp;·&nbsp; ⭐ `1` &nbsp;·&nbsp; `TypeScript 99.4%` &nbsp;·&nbsp; [Live →](https://climate-space-zimbabwe-web.vercel.app) &nbsp;·&nbsp; `15 deployments`
+**[Climate Space Zimbabwe](https://github.com/PraiseTechzw/climate-space-zimbabwe-web)** &nbsp;·&nbsp; ![Stars](https://img.shields.io/github/stars/PraiseTechzw/climate-space-zimbabwe-web?style=flat-square&labelColor=0d1117&color=00eaff&label=stars) &nbsp;·&nbsp; [Live →](https://climate-space-zimbabwe-web.vercel.app)
 
 A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificial intelligence with creative arts to help farmers get localized planting advice and pest identification tuned to Zimbabwe's agro-ecological zones. Includes a Creative Space for digital climate advocacy, a Climate Library for researchers, and a full custom design system. Actively deployed on Vercel.
 
@@ -354,6 +356,21 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 ---
 
+## `> recent_activity`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## `> engineering_metrics`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/PraiseTechzw/PraiseTechzw/output/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+</div>
+
+---
+
 ## `> profile_summary`
 
 <div align="center">
@@ -372,17 +389,10 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
 
 ---
 
-## `> coding_time` *(via WakaTime)*
+## `> coding_activity`
 
-<div align="center">
-
-<a href="https://wakatime.com/@aae01d58-23cc-485e-ae6d-9ab3e5fdfbce">
-  <img src="https://wakatime.com/badge/user/aae01d58-23cc-485e-ae6d-9ab3e5fdfbce.svg?style=for-the-badge" alt="WakaTime Total" />
-</a>
-
-<br/><br/>
-
-</div>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
