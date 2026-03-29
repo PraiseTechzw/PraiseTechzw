@@ -78,6 +78,11 @@ const praise: Developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ### ◈ Backend & Data
 
@@ -89,7 +94,10 @@ const praise: Developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Turso](https://img.shields.io/badge/Turso-000000?style=for-the-badge&logo=turso&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Room](https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=android&logoColor=white)
 
 ### ◈ Cloud, DevOps & AI
 
@@ -102,6 +110,8 @@ const praise: Developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -128,6 +138,60 @@ const praise: Developer = {
 The project I'm most proud of. An intelligent Git automation CLI that watches your filesystem, debounces changes, then commits and pushes while you stay in flow. Ships with AI-powered commit messages via Gemini/Grok, a real-time dashboard, undo command, team mode, conflict detection, secret scanning, and a productivity leaderboard. Published on npm as `@traisetech/autopilot`.
 
 `Node.js` `TypeScript` `JavaScript` `Gemini AI` `npm`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- MeterProbe -->
+<table>
+<tr>
+<td width="55" align="center">📡</td>
+<td>
+
+**[MeterProbe](https://github.com/PraiseTechzw/BLEDiagnosticConsole)** &nbsp;·&nbsp; ⭐ `0` &nbsp;·&nbsp; `Kotlin`
+
+A native Android BLE diagnostic and protocol discovery tool for electricity meters. Features an active BLE scanner, GATT explorer for proprietary characteristics, a safe traffic console for HEX payloads, and persistent traffic logging with export capabilities.
+
+`Kotlin` `Jetpack Compose` `BLE` `Room` `MVVM` `Material 3`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ZimBus -->
+<table>
+<tr>
+<td width="55" align="center">🚍</td>
+<td>
+
+**[ZimBus](https://github.com/PraiseTechzw/zimbus---zimbabwe-bus-booking)** &nbsp;·&nbsp; ⭐ `0` &nbsp;·&nbsp; `TypeScript`
+
+Zimbabwe's premier bus booking platform. Features real-time route search, interactive seat selection with intuitive bus layouts, smart notifications, and a premium glassmorphic UI. Engineered for a seamless travel experience across the country.
+
+`React` `Vite` `TypeScript` `Firebase` `Tailwind CSS 4.0` `Motion`
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- Asset Register -->
+<table>
+<tr>
+<td width="55" align="center">🏢</td>
+<td>
+
+**[Asset Register](https://github.com/PraiseTechzw/asset-register)** &nbsp;·&nbsp; `38 commits` &nbsp;·&nbsp; ⭐ `1` &nbsp;·&nbsp; `TypeScript 98.4%`
+
+An enterprise-grade asset management system for the Zimbabwe Open University. Features QR-based asset tracking, role-based access control (RBAC), automated depreciation scheduling, and detailed audit logging. Built for scalability with a modern serverless edge database.
+
+`Next.js 14` `TypeScript` `Drizzle ORM` `Turso` `Tailwind CSS` `Radix UI`
 
 </td>
 </tr>
@@ -279,8 +343,8 @@ A youth-led AI-powered climate resilience platform for Zimbabwe. Fuses artificia
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=climate-space-zimbabwe-web&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 
-<a href="https://github.com/PraiseTechzw/Snapit-preview">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=Snapit-preview&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
+<a href="https://github.com/PraiseTechzw/asset-register">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=asset-register&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/PraiseTechzw/stock">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PraiseTechzw&repo=stock&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=7928ca&text_color=c9d1d9" />
