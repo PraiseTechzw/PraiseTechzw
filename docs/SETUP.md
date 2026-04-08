@@ -7,10 +7,23 @@ This repository is organized to keep the public profile clean while still making
 ```text
 .
 |-- .github/
+|   |-- CODEOWNERS
+|   |-- ISSUE_TEMPLATE/
+|   |   |-- bug_report.md
+|   |   |-- config.yml
+|   |   `-- template_request.md
+|   |-- pull_request_template.md
 |   `-- workflows/
+|       |-- pages.yml
 |       `-- snake.yml
 |-- docs/
 |   `-- SETUP.md
+|-- site/
+|   |-- 404.html
+|   |-- index.html
+|   |-- preview.svg
+|   |-- robots.txt
+|   `-- styles.css
 |-- templates/
 |   |-- README.md
 |   |-- profile-template.md
@@ -21,15 +34,23 @@ This repository is organized to keep the public profile clean while still making
 |   |-- creative-tech.md
 |   |-- neon-command-center.md
 |   `-- executive-bento.md
+|-- CODE_OF_CONDUCT.md
 |-- CONTRIBUTING.md
 |-- LICENSE
+|-- SECURITY.md
+|-- SUPPORT.md
 `-- README.md
 ```
 
 ## What Lives Where
 
 - `README.md`: the live GitHub profile README shown on the profile page
+- `site/`: the GitHub Pages showcase source
 - `.github/workflows/snake.yml`: automation for contribution snake assets
+- `.github/workflows/pages.yml`: GitHub Pages deployment workflow
+- `.github/ISSUE_TEMPLATE/`: issue templates for bugs and template requests
+- `.github/pull_request_template.md`: pull request checklist
+- `.github/CODEOWNERS`: default ownership for the repository
 - `templates/README.md`: premium template gallery and selection guide
 - `templates/profile-template.md`: balanced premium portfolio template
 - `templates/founder-story.md`: founder and product-led template
@@ -41,6 +62,9 @@ This repository is organized to keep the public profile clean while still making
 - `templates/executive-bento.md`: high-end senior and consultant template
 - `docs/SETUP.md`: maintenance notes and structure guidance
 - `CONTRIBUTING.md`: contribution expectations
+- `CODE_OF_CONDUCT.md`: contribution behavior expectations
+- `SECURITY.md`: private reporting guidance for security issues
+- `SUPPORT.md`: support routing for questions and issues
 - `LICENSE`: reuse rules
 
 ## Customization Order
@@ -80,6 +104,14 @@ For the profile README to display on GitHub, the repository must:
 
 GitHub reference:
 - https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+
+## GitHub Pages Notes
+
+This repository includes a dedicated Pages site in `site/` and a deployment workflow in `.github/workflows/pages.yml`.
+
+Recommended homepage after Pages is enabled:
+
+- `https://praisetechzw.github.io/PraiseTechzw/`
 
 ## Recommended Pinned Repositories
 

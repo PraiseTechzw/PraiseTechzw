@@ -34,6 +34,7 @@ Please keep contributions:
 - template improvements
 - documentation fixes
 - GitHub Actions cleanup
+- GitHub Pages improvements
 
 ## Pull Request Notes
 

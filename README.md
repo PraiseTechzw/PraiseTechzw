@@ -25,6 +25,7 @@ developer tooling, student wellness, mobility, climate resilience,
 field diagnostics, and modern internal platforms.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-praisetech.tech-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://praisetech.tech)
+[![Pages Showcase](https://img.shields.io/badge/Pages-Profile_Showcase-0f766e?style=for-the-badge&logo=githubpages&logoColor=white)](https://praisetechzw.github.io/PraiseTechzw/)
 [![Email](https://img.shields.io/badge/Email-praisetechzw%40gmail.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Praise_Masunga-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praisemasunga/)
 [![GitHub](https://img.shields.io/badge/GitHub-@PraiseTechzw-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraiseTechzw)
@@ -240,6 +241,12 @@ Use this formula:
 - clear contact links
 
 Please change the words, projects, and links so your profile reflects your own journey.
+
+---
+
+## Showcase Site
+
+A GitHub Pages showcase for this repository lives at [praisetechzw.github.io/PraiseTechzw](https://praisetechzw.github.io/PraiseTechzw/).
 
 ---
 
