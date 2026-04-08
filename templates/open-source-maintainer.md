@@ -1,14 +1,19 @@
+<!-- Open-source heavy template with stronger widget presence. -->
+
 <div align="center">
 
 <img
   width="100%"
-  alt="Open source maintainer profile header template"
-  src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0369a1,100:10b981&height=220&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Open%20source%20maintainer%20focused%20on%20reliability,%20developer%20experience,%20and%20adoption&descAlignY=62&descSize=18&descColor=e0f2fe"
+  alt="Open source maintainer header"
+  src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,32:0369a1,67:0f766e,100:10b981&height=230&section=header&text=Your%20Name&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Maintainer.%20Builder.%20Developer-experience%20obsessive.&descAlignY=61&descSize=18&descColor=e0f2fe"
 />
 
-## Open Source Maintainer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3000&pause=1000&color=E0F2FE&center=true&vCenter=true&width=950&lines=Open+Source+Maintainer+Template;APIs%2C+release+discipline%2C+docs%2C+and+adoption;Trust+signals+that+feel+earned)](https://github.com/DenverCoder1/readme-typing-svg)
 
-[GitHub](https://github.com/your-username) • [Docs](https://your-docs-site.com) • [Sponsor](https://github.com/sponsors/your-username) • [Email](mailto:you@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![Docs](https://img.shields.io/badge/Docs-your--docs--site.com-0369a1?style=for-the-badge&logo=readthedocs&logoColor=white)](https://your-docs-site.com)
+[![Sponsor](https://img.shields.io/badge/Sponsor-your--username-0f766e?style=for-the-badge&logo=githubsponsors&logoColor=white)](https://github.com/sponsors/your-username)
+[![Email](https://img.shields.io/badge/Email-you%40example.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
@@ -17,11 +22,11 @@
 ## Maintainer Summary
 
 Use this space to describe the problem area you maintain in,
-the communities you serve, and the principles behind your open-source work.
+the community you serve, and the standards you hold your work to.
 
 ---
 
-## Projects That Matter
+## Project Surface
 
 <table>
 <tr>
@@ -29,7 +34,7 @@ the communities you serve, and the principles behind your open-source work.
 
 <strong><a href="https://github.com/your-username/project-one">project-one</a></strong><br /><br />
 
-Core description of the project, what it solves, and why developers adopt it.
+Core description of the project, what it solves, and why people keep using it.
 
 `CLI` `TypeScript` `npm`
 
@@ -49,18 +54,18 @@ Core description of the project, what it solves, and why developers adopt it.
 
 <strong><a href="https://github.com/your-username/project-three">project-three</a></strong><br /><br />
 
-Core description of the project, what it solves, and why developers adopt it.
+Core description of the project, what it solves, and what makes it trustworthy.
 
 `Infrastructure` `API` `OSS`
 
 </td>
 <td width="50%" valign="top">
 
-<strong>What I care about</strong>
+<strong>Maintainer values</strong>
 
 <ul>
   <li>stable releases</li>
-  <li>clear documentation</li>
+  <li>clear docs</li>
   <li>backward compatibility</li>
   <li>kind contributor experience</li>
 </ul>
@@ -71,26 +76,27 @@ Core description of the project, what it solves, and why developers adopt it.
 
 ---
 
-## Contribution Philosophy
+## Maintainer Dashboard
 
-- Make adoption easy.
-- Keep docs close to the code.
-- Design APIs for humans, not just machines.
-- Be responsive without being reckless.
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=your-username&theme=algolia&no-frame=true&no-bg=true&row=2&column=4" alt="GitHub trophies" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-compact&bg_color=0f172a&color=e0f2fe&line=10b981&point=f8fafc&area=true&hide_border=true" alt="GitHub activity graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
 
 ---
 
-## Maintainer Toolbox
+## Toolbox
 
 `TypeScript` `Node.js` `Go` `Python` `GitHub Actions` `Docker`
-
----
-
-## Community
-
-- good first issues
-- contributor-friendly reviews
-- release notes people can actually understand
 
 ---
 

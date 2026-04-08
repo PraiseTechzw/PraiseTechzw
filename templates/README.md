@@ -1,30 +1,32 @@
-# Profile Template Gallery
+# Premium Profile Template Gallery
 
-This folder contains multiple profile README templates with different visual styles and use cases.
+This folder contains modern GitHub profile README templates with more visual personality:
+animated SVGs, richer badges, bento-style layouts, stats sections, and stronger premium branding patterns.
 
-## Templates
+## Collection
 
-| Template | Best for | Style |
+| Template | Best for | Signature look |
 |---|---|---|
-| [profile-template.md](./profile-template.md) | balanced personal brand | classic portfolio |
-| [founder-story.md](./founder-story.md) | founders and product builders | editorial and bold |
-| [minimal-signal.md](./minimal-signal.md) | engineers who want clarity first | minimal and sharp |
-| [open-source-maintainer.md](./open-source-maintainer.md) | OSS builders and maintainers | proof-heavy and trustworthy |
-| [student-standout.md](./student-standout.md) | students and early-career builders | ambitious and recruiter-friendly |
-| [creative-tech.md](./creative-tech.md) | brand-forward designers and technologists | expressive and visual |
+| [profile-template.md](./profile-template.md) | all-round personal brand | premium portfolio with animated hero |
+| [founder-story.md](./founder-story.md) | founders and product builders | editorial launch-page energy |
+| [minimal-signal.md](./minimal-signal.md) | engineers who want elegance without noise | restrained, sharp, premium minimal |
+| [open-source-maintainer.md](./open-source-maintainer.md) | OSS builders and maintainers | trophies, graphs, and trust signals |
+| [student-standout.md](./student-standout.md) | students and early-career builders | ambitious, polished, recruiter-friendly |
+| [creative-tech.md](./creative-tech.md) | designers and creative technologists | expressive, visual, art-directed |
+| [neon-command-center.md](./neon-command-center.md) | hacker-style builders and toolmakers | futuristic dashboard UI |
+| [executive-bento.md](./executive-bento.md) | senior engineers, leads, consultants | high-end bento presentation |
 
-## How To Choose
+## Design Notes
 
-- Pick `profile-template.md` if you want the safest all-rounder.
-- Pick `founder-story.md` if your identity is strongly product-led.
-- Pick `minimal-signal.md` if you want less decoration and more signal.
-- Pick `open-source-maintainer.md` if your public work is your strongest proof.
-- Pick `student-standout.md` if you are still building your career narrative.
-- Pick `creative-tech.md` if your profile should feel more artistic and memorable.
+- These templates intentionally use more visual contrast than a plain README.
+- Not every effect belongs in every profile. Pick one direction and commit to it.
+- Replace every placeholder username, URL, badge label, and project link before publishing.
+- If a third-party widget is important to you, consider self-hosting later for more control.
 
-## Guidance
+## Quick Picks
 
-- Do not mix every idea from every template.
-- Choose one direction and customize it deeply.
-- Keep only sections you can maintain.
-- Replace every placeholder link before publishing.
+- Want the safest premium option: start with `profile-template.md`
+- Want the strongest founder energy: use `founder-story.md`
+- Want flashy and technical: use `neon-command-center.md`
+- Want the most recruiter-ready student version: use `student-standout.md`
+- Want a polished senior profile: use `executive-bento.md`

@@ -18,7 +18,9 @@ This repository is organized to keep the public profile clean while still making
 |   |-- minimal-signal.md
 |   |-- open-source-maintainer.md
 |   |-- student-standout.md
-|   `-- creative-tech.md
+|   |-- creative-tech.md
+|   |-- neon-command-center.md
+|   `-- executive-bento.md
 |-- CONTRIBUTING.md
 |-- LICENSE
 `-- README.md
@@ -28,13 +30,15 @@ This repository is organized to keep the public profile clean while still making
 
 - `README.md`: the live GitHub profile README shown on the profile page
 - `.github/workflows/snake.yml`: automation for contribution snake assets
-- `templates/README.md`: template gallery and selection guide
-- `templates/profile-template.md`: balanced all-purpose starter
-- `templates/founder-story.md`: product and founder-focused profile
-- `templates/minimal-signal.md`: low-noise engineering-first profile
-- `templates/open-source-maintainer.md`: proof-heavy OSS profile
-- `templates/student-standout.md`: student and early-career profile
-- `templates/creative-tech.md`: expressive design-forward profile
+- `templates/README.md`: premium template gallery and selection guide
+- `templates/profile-template.md`: balanced premium portfolio template
+- `templates/founder-story.md`: founder and product-led template
+- `templates/minimal-signal.md`: elegant low-noise engineering template
+- `templates/open-source-maintainer.md`: maintainer template with stronger trust signals
+- `templates/student-standout.md`: polished student and early-career template
+- `templates/creative-tech.md`: expressive design-forward template
+- `templates/neon-command-center.md`: futuristic dashboard-style template
+- `templates/executive-bento.md`: high-end senior and consultant template
 - `docs/SETUP.md`: maintenance notes and structure guidance
 - `CONTRIBUTING.md`: contribution expectations
 - `LICENSE`: reuse rules
@@ -56,6 +60,7 @@ Use the template gallery in `templates/README.md` to pick a direction before edi
 - Choose one template as your base.
 - Customize it deeply instead of mixing every section from every file.
 - Remove anything you cannot maintain.
+- If you use external SVG widgets, verify that the services are stable enough for your profile.
 
 ## Quality Rules
 

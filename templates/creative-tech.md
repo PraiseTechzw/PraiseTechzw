@@ -1,16 +1,19 @@
+<!-- Art-directed template for design-forward builders. -->
+
 <div align="center">
 
-<img
-  width="100%"
-  alt="Creative technologist profile header template"
-  src="https://capsule-render.vercel.app/api?type=blur&color=0:172554,35:0f766e,68:ea580c,100:7c3aed&height=220&section=header&text=Your%20Name&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Creative%20technologist%20designing%20interfaces,%20systems,%20and%20stories%20people%20remember&descAlignY=61&descSize=18&descColor=ede9fe"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:172554,30:0f766e,65:ea580c,100:7c3aed&height=235&section=header&text=Your%20Name&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Creative%20technologist%20designing%20interfaces,%20systems,%20and%20memorable%20digital%20experiences&descAlignY=60&descSize=18&descColor=ede9fe" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&color=0:f8fafc,35:c4b5fd,70:fdba74,100:99f6e4&height=235&section=header&text=Your%20Name&fontSize=54&fontColor=1f2937&fontAlignY=38&desc=Creative%20technologist%20designing%20interfaces,%20systems,%20and%20memorable%20digital%20experiences&descAlignY=60&descSize=18&descColor=334155" />
+  <img width="100%" alt="Creative tech header" src="https://capsule-render.vercel.app/api?type=blur&color=0:172554,30:0f766e,65:ea580c,100:7c3aed&height=235&section=header&text=Your%20Name&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Creative%20technologist%20designing%20interfaces,%20systems,%20and%20memorable%20digital%20experiences&descAlignY=60&descSize=18&descColor=ede9fe" />
+</picture>
 
-# Creative Tech
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Red+Hat+Mono&weight=700&size=22&duration=2800&pause=1000&color=EDE9FE&center=true&vCenter=true&width=940&lines=Creative+Tech+Template;Design+systems+%7C+Motion+%7C+Code+craft;Not+just+usable.+Memorable.)](https://github.com/DenverCoder1/readme-typing-svg)
 
-I work at the intersection of design, code, motion, brand, and product thinking.
-
-[Portfolio](https://your-site.com) • [Dribbble](https://dribbble.com/your-handle) • [Behance](https://behance.net/your-handle) • [Email](mailto:you@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-172554?style=for-the-badge&logo=firefox&logoColor=white)](https://your-site.com)
+[![Dribbble](https://img.shields.io/badge/Dribbble-your--handle-ea4c89?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/your-handle)
+[![Behance](https://img.shields.io/badge/Behance-your--handle-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/your-handle)
+[![Email](https://img.shields.io/badge/Email-you%40example.com-ea580c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
@@ -19,8 +22,8 @@ I work at the intersection of design, code, motion, brand, and product thinking.
 ## Design Statement
 
 Use this section to explain your creative point of view.
-What kind of visual language do you like?
-What kind of digital experiences do you want people to feel?
+What visual worlds do you like building?
+What do you want people to feel when they use your work?
 
 ---
 
@@ -32,14 +35,14 @@ What kind of digital experiences do you want people to feel?
 
 <strong>Interface system</strong><br /><br />
 
-Talk about a polished UI system, branding project, or design-heavy product build.
+Talk about a polished design system, product identity, or art-directed interface build.
 
 </td>
 <td width="50%" valign="top">
 
 <strong>Interactive experience</strong><br /><br />
 
-Talk about a motion-heavy page, visual experiment, or product flow with memorable interaction design.
+Talk about a motion-heavy product flow or immersive experience you designed and built.
 
 </td>
 </tr>
@@ -63,6 +66,17 @@ Talk about a project where implementation quality mattered as much as the visual
 
 ---
 
+## Visual Layer
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&title_color=ede9fe&icon_color=fdba74&text_color=e2e8f0&bg_color=172554" alt="GitHub stats card" />
+<img height="165" src="https://github-profile-trophy.vercel.app/?username=your-username&theme=onestar&no-frame=true&no-bg=true&row=1&column=3" alt="GitHub trophies" />
+
+</div>
+
+---
+
 ## What I Care About
 
 - visual systems with intention
@@ -72,12 +86,6 @@ Talk about a project where implementation quality mattered as much as the visual
 
 ---
 
-## Notes
-
-> Good interface work should feel inevitable in hindsight and surprising the first time you see it.
-
----
-
 ## Contact
 
-[Portfolio](https://your-site.com) • [Dribbble](https://dribbble.com/your-handle) • [Email](mailto:you@example.com)
+[Portfolio](https://your-site.com) • [Dribbble](https://dribbble.com/your-handle) • [Behance](https://behance.net/your-handle) • [Email](mailto:you@example.com)

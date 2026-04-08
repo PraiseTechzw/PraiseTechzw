@@ -229,7 +229,7 @@ clean interfaces, maintainable systems, practical AI, and software that earns tr
 If this README inspires you, feel free to fork the repo and rebuild it in your own voice.
 The layout is intentionally simple to adapt, and the best version of it is the one that sounds like you.
 An [MIT License](./LICENSE) is included so reuse stays straightforward.
-There is also a full template gallery in [templates/README.md](./templates/README.md), a reusable starter in [templates/profile-template.md](./templates/profile-template.md), and setup notes in [docs/SETUP.md](./docs/SETUP.md).
+There is also a premium template gallery in [templates/README.md](./templates/README.md) with animated, badge-rich, and bento-style options, a reusable starter in [templates/profile-template.md](./templates/profile-template.md), and setup notes in [docs/SETUP.md](./docs/SETUP.md).
 
 Use this formula:
 

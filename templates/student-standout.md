@@ -1,16 +1,19 @@
+<!-- Student profile with premium polish and strong recruiter signal. -->
+
 <div align="center">
 
 <img
   width="100%"
-  alt="Student engineer profile header template"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0f766e,100:f59e0b&height=210&section=header&text=Your%20Name&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Student%20engineer%20building%20proof,%20not%20just%20potential&descAlignY=60&descSize=18&descColor=faf5ff"
+  alt="Student standout header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,35:0f766e,70:f59e0b,100:ea580c&height=235&section=header&text=Your%20Name&fontSize=54&fontColor=ffffff&fontAlignY=37&desc=Student%20engineer%20turning%20curiosity%20into%20real%20proof-of-work&descAlignY=60&descSize=18&descColor=faf5ff"
 />
 
-## Student Standout
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=3200&pause=900&color=FAF5FF&center=true&vCenter=true&width=920&lines=Student+Standout+Template;Projects+that+look+stronger+than+your+years;Make+recruiters+feel+the+momentum)](https://github.com/DenverCoder1/readme-typing-svg)
 
-I am a student builder focused on turning coursework, curiosity, and side projects into real proof of ability.
-
-[Portfolio](https://your-site.com) • [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [Resume](https://your-site.com/resume)
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://your-site.com)
+[![Resume](https://img.shields.io/badge/Resume-Download-f59e0b?style=for-the-badge&logo=readme&logoColor=111827)](https://your-site.com/resume)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Email](https://img.shields.io/badge/Email-you%40example.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 
 </div>
 
@@ -18,11 +21,9 @@ I am a student builder focused on turning coursework, curiosity, and side projec
 
 ## About Me
 
-Write a short paragraph about:
-
-- what you are studying
-- what kinds of products or systems you are drawn to
-- how you are growing outside the classroom
+Write a short paragraph about what you are studying,
+what kind of software work pulls you in,
+and how your projects go beyond classroom requirements.
 
 ---
 
@@ -72,15 +73,26 @@ Write a short paragraph about:
 
 ### [Project One](https://github.com/your-username/project-one)
 
-Describe the product and why it shows your growth.
+Describe the project and why it proves skill, ownership, or growth.
 
 ### [Project Two](https://github.com/your-username/project-two)
 
-Describe the product and why it shows your growth.
+Describe the project and why it proves skill, ownership, or growth.
 
 ### [Project Three](https://github.com/your-username/project-three)
 
-Describe the product and why it shows your growth.
+Describe the project and why it proves skill, ownership, or growth.
+
+---
+
+## Proof Layer
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&title_color=faf5ff&icon_color=f59e0b&text_color=fef3c7&bg_color=1e1b4b" alt="GitHub stats card" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=faf5ff&text_color=fef3c7&bg_color=1e1b4b" alt="Top languages card" />
+
+</div>
 
 ---
 
@@ -90,14 +102,6 @@ Describe the product and why it shows your growth.
 
 ---
 
-## What I Value
-
-- learning fast without faking expertise
-- building beyond classroom requirements
-- making software useful to real users
-
----
-
 ## Connect
 
-[Portfolio](https://your-site.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:you@example.com)
+[Portfolio](https://your-site.com) • [Resume](https://your-site.com/resume) • [LinkedIn](https://linkedin.com/in/your-profile) • [Email](mailto:you@example.com)

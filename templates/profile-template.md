@@ -1,66 +1,69 @@
+<!-- Replace your-username, your-site.com, and your links before publishing. -->
+
 <div align="center">
 
 <img
   width="100%"
-  alt="Profile header template"
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0f766e,100:d97706&height=190&section=header&text=Your%20Name&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Build%20a%20profile%20README%20that%20sounds%20like%20you&descAlignY=60&descSize=18&descColor=f8fafc"
+  alt="Premium portfolio profile header"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,38:0f766e,68:d97706,100:7c2d12&height=240&section=header&text=Your%20Name&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Build%20with%20clarity.%20Ship%20with%20taste.%20Leave%20signal.%20&descAlignY=58&descSize=18&descColor=f8fafc&animation=fadeIn"
 />
 
-## Classic Portfolio Template
-
-Short positioning statement about who you are, what you build, and who it helps.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=3200&pause=900&color=F8FAFC&center=true&vCenter=true&width=900&lines=Premium+GitHub+Profile+Template;Product-minded+engineer+%7C+builder+%7C+operator;Turn+your+README+into+a+real+first+impression)](https://github.com/DenverCoder1/readme-typing-svg)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://your-site.com)
 [![Email](https://img.shields.io/badge/Email-you%40example.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Followers](https://img.shields.io/github/followers/your-username?style=for-the-badge&color=0f766e&labelColor=111827)](https://github.com/your-username)
+
+![Role](https://img.shields.io/badge/Role-Software%20Engineer-0f172a?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Product%20%7C%20Mobile%20%7C%20AI-d97706?style=flat-square)
+![Mode](https://img.shields.io/badge/Open%20to-Collaboration-0f766e?style=flat-square)
 
 </div>
 
 ---
 
-## Why I Build
+## About
 
-Use this section to explain what kinds of problems you care about,
-why they matter to you, and what your work is trying to improve.
-
-Keep it honest, specific, and easy to scan.
+Write two short paragraphs that make you sound real, capable, and specific.
+Talk about what you build, the problems you care about, and the kind of impact you want your work to have.
 
 ---
 
-## At A Glance
+## Signature Highlights
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<strong>Currently building</strong>
+<strong>Building now</strong>
 
 <ul>
-  <li><code>project-or-theme</code></li>
-  <li>one strong area of focus</li>
-  <li>one practical outcome you care about</li>
+  <li><code>current-product</code></li>
+  <li>one strong technical direction</li>
+  <li>one practical user outcome</li>
 </ul>
 
 </td>
 <td width="33%" valign="top">
 
-<strong>Core strengths</strong>
+<strong>Strengths</strong>
 
 <ul>
-  <li>frontend or mobile</li>
-  <li>backend or systems</li>
-  <li>product thinking or AI</li>
+  <li>frontend, mobile, or systems</li>
+  <li>backend architecture or DX</li>
+  <li>product thinking or AI workflows</li>
 </ul>
 
 </td>
 <td width="33%" valign="top">
 
-<strong>Open to</strong>
+<strong>Looking for</strong>
 
 <ul>
-  <li>collaboration</li>
-  <li>freelance or consulting</li>
-  <li>internships or full-time roles</li>
+  <li>great teams</li>
+  <li>consulting or freelance work</li>
+  <li>ambitious collaborators</li>
 </ul>
 
 </td>
@@ -69,56 +72,69 @@ Keep it honest, specific, and easy to scan.
 
 ---
 
-## Selected Work
+## Featured Work
 
-### [Project One](https://github.com/your-username/project-one)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-One short paragraph explaining the product, the user problem,
-and why the work is worth noticing.
+<strong><a href="https://github.com/your-username/project-one">Project One</a></strong><br /><br />
 
-`TypeScript` `React` `PostgreSQL`
+Describe a product that feels substantial.
+Talk about the user, the workflow, and why the work matters.
 
-### [Project Two](https://github.com/your-username/project-two)
+`TypeScript` `React` `Node.js`
 
-One short paragraph explaining the product, the user problem,
-and why the work is worth noticing.
+</td>
+<td width="50%" valign="top">
+
+<strong><a href="https://github.com/your-username/project-two">Project Two</a></strong><br /><br />
+
+Describe a second proof-of-work project with a different technical flavor.
 
 `Flutter` `Firebase` `Mobile`
 
-### [Project Three](https://github.com/your-username/project-three)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-One short paragraph explaining the product, the user problem,
-and why the work is worth noticing.
+<strong><a href="https://github.com/your-username/project-three">Project Three</a></strong><br /><br />
+
+Describe the problem, what you shipped, and what makes it memorable.
 
 `Python` `FastAPI` `AI`
 
+</td>
+<td width="50%" valign="top">
+
+<strong>What I optimize for</strong><br /><br />
+
+clarity, maintainability, visual quality, fast iteration, and software people actually want to use
+
+</td>
+</tr>
+</table>
+
 ---
 
-## How I Like To Build
+## Signal Layer
 
-- Start with the problem.
-- Prefer useful systems over demo-only projects.
-- Care about clarity, maintainability, and handoff.
-- Leave things better structured than you found them.
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true&title_color=f8fafc&icon_color=f59e0b&text_color=e5e7eb&bg_color=0f172a" alt="GitHub stats card" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true&title_color=f8fafc&text_color=e5e7eb&bg_color=0f172a" alt="Top languages card" />
+
+</div>
 
 ---
 
 ## Toolbox
 
-`TypeScript` `Python` `React` `Next.js` `Node.js` `PostgreSQL`
-
-Add only tools you can defend in conversation.
-
----
-
-## Right Now
-
-- current focus one
-- current focus two
-- current focus three
+`TypeScript` `Python` `React` `Next.js` `Node.js` `PostgreSQL` `Docker` `GitHub Actions`
 
 ---
 
 ## Connect
 
-[Portfolio](https://your-site.com) • [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/your-profile)
+[Portfolio](https://your-site.com) • [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
