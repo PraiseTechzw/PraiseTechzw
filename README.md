@@ -58,27 +58,33 @@ that make technology feel more local, more practical, and more empowering.
 
 <strong>Currently building</strong>
 
-- `@traisetech/autopilot`
-- product-grade apps and platforms
-- open-source tools with real utility
+<ul>
+  <li><code>@traisetech/autopilot</code></li>
+  <li>product-grade apps and platforms</li>
+  <li>open-source tools with real utility</li>
+</ul>
 
 </td>
 <td width="33%" valign="top">
 
 <strong>Core strengths</strong>
 
-- mobile and frontend engineering
-- backend systems and data design
-- AI features with practical use cases
+<ul>
+  <li>mobile and frontend engineering</li>
+  <li>backend systems and data design</li>
+  <li>AI features with practical use cases</li>
+</ul>
 
 </td>
 <td width="33%" valign="top">
 
 <strong>Open to</strong>
 
-- freelance and consulting
-- mission-driven collaboration
-- open source and product teams
+<ul>
+  <li>freelance and consulting</li>
+  <li>mission-driven collaboration</li>
+  <li>open source and product teams</li>
+</ul>
 
 </td>
 </tr>
@@ -92,7 +98,7 @@ that make technology feel more local, more practical, and more empowering.
 <tr>
 <td width="50%" valign="top">
 
-### [autopilot-cli](https://github.com/PraiseTechzw/autopilot-cli)
+<strong><a href="https://github.com/PraiseTechzw/autopilot-cli">autopilot-cli</a></strong><br /><br />
 
 An AI-assisted Git automation CLI built to keep developers in flow.
 It watches file changes, debounces activity, prepares commits, pushes safely,
@@ -103,7 +109,7 @@ and adds team-friendly features like dashboards, undo flows, and secret scanning
 </td>
 <td width="50%" valign="top">
 
-### [Lunavo](https://github.com/PraiseTechzw/Lunavo)
+<strong><a href="https://github.com/PraiseTechzw/Lunavo">Lunavo</a></strong><br /><br />
 
 A student mental wellness ecosystem with peer support, mood check-ins,
 anonymous discussion, crisis resources, gamification, and AI-guided insights.
@@ -116,7 +122,7 @@ Built with the seriousness that care-focused products deserve.
 <tr>
 <td width="50%" valign="top">
 
-### [Climate Space Zimbabwe](https://github.com/PraiseTechzw/climate-space-zimbabwe-web)
+<strong><a href="https://github.com/PraiseTechzw/climate-space-zimbabwe-web">Climate Space Zimbabwe</a></strong><br /><br />
 
 A youth-led climate resilience platform that combines localized AI assistance,
 creative advocacy, and research-oriented content for Zimbabwean communities
@@ -127,7 +133,7 @@ working through agricultural and environmental challenges.
 </td>
 <td width="50%" valign="top">
 
-### [ZimBus](https://github.com/PraiseTechzw/zimbus---zimbabwe-bus-booking)
+<strong><a href="https://github.com/PraiseTechzw/zimbus---zimbabwe-bus-booking">ZimBus</a></strong><br /><br />
 
 A modern bus booking experience designed for clarity, confidence, and speed.
 Route discovery, seat selection, notifications, and a polished customer journey
@@ -140,7 +146,7 @@ turn a traditionally frustrating process into a smoother product.
 <tr>
 <td width="50%" valign="top">
 
-### [MeterProbe](https://github.com/PraiseTechzw/BLEDiagnosticConsole)
+<strong><a href="https://github.com/PraiseTechzw/BLEDiagnosticConsole">MeterProbe</a></strong><br /><br />
 
 A native Android BLE diagnostic tool for electricity meter protocol discovery.
 It focuses on scan reliability, GATT visibility, safe payload inspection,
@@ -151,7 +157,7 @@ and persistent logging for technical field work.
 </td>
 <td width="50%" valign="top">
 
-### [Taste of Zimbabwe](https://github.com/PraiseTechzw/recipe)
+<strong><a href="https://github.com/PraiseTechzw/recipe">Taste of Zimbabwe</a></strong><br /><br />
 
 A culinary app preserving Zimbabwean cuisine through multilingual recipes,
 community sharing, camera-assisted ingredient exploration, and AI-generated suggestions.
@@ -222,6 +228,7 @@ clean interfaces, maintainable systems, practical AI, and software that earns tr
 
 If this README inspires you, feel free to fork the repo and rebuild it in your own voice.
 The layout is intentionally simple to adapt, and the best version of it is the one that sounds like you.
+An [MIT License](./LICENSE) is included so reuse stays straightforward.
 
 Use this formula:
 
