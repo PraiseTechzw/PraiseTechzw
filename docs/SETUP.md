@@ -12,7 +12,13 @@ This repository is organized to keep the public profile clean while still making
 |-- docs/
 |   `-- SETUP.md
 |-- templates/
-|   `-- profile-template.md
+|   |-- README.md
+|   |-- profile-template.md
+|   |-- founder-story.md
+|   |-- minimal-signal.md
+|   |-- open-source-maintainer.md
+|   |-- student-standout.md
+|   `-- creative-tech.md
 |-- CONTRIBUTING.md
 |-- LICENSE
 `-- README.md
@@ -22,7 +28,13 @@ This repository is organized to keep the public profile clean while still making
 
 - `README.md`: the live GitHub profile README shown on the profile page
 - `.github/workflows/snake.yml`: automation for contribution snake assets
-- `templates/profile-template.md`: reusable starter version for other people or future redesigns
+- `templates/README.md`: template gallery and selection guide
+- `templates/profile-template.md`: balanced all-purpose starter
+- `templates/founder-story.md`: product and founder-focused profile
+- `templates/minimal-signal.md`: low-noise engineering-first profile
+- `templates/open-source-maintainer.md`: proof-heavy OSS profile
+- `templates/student-standout.md`: student and early-career profile
+- `templates/creative-tech.md`: expressive design-forward profile
 - `docs/SETUP.md`: maintenance notes and structure guidance
 - `CONTRIBUTING.md`: contribution expectations
 - `LICENSE`: reuse rules
@@ -36,6 +48,14 @@ If you are adapting this for yourself, update things in this order:
 3. selected projects
 4. mission and "why I build" copy
 5. toolbox and current focus
+
+## Choosing a Template
+
+Use the template gallery in `templates/README.md` to pick a direction before editing.
+
+- Choose one template as your base.
+- Customize it deeply instead of mixing every section from every file.
+- Remove anything you cannot maintain.
 
 ## Quality Rules
 

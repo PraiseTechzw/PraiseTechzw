@@ -1,29 +1,71 @@
-# Your Name
+<div align="center">
 
-> One sharp line about what you build and who it helps.
+<img
+  width="100%"
+  alt="Profile header template"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:0f766e,100:d97706&height=190&section=header&text=Your%20Name&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Build%20a%20profile%20README%20that%20sounds%20like%20you&descAlignY=60&descSize=18&descColor=f8fafc"
+/>
 
-[Portfolio](https://your-site.com) • [Email](mailto:you@example.com) • [LinkedIn](https://linkedin.com/in/your-profile)
+## Classic Portfolio Template
+
+Short positioning statement about who you are, what you build, and who it helps.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-your--site.com-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://your-site.com)
+[![Email](https://img.shields.io/badge/Email-you%40example.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--profile-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+
+</div>
 
 ---
 
 ## Why I Build
 
-Write two short paragraphs about:
+Use this section to explain what kinds of problems you care about,
+why they matter to you, and what your work is trying to improve.
 
-- the kinds of problems you care about
-- the people or communities you want to serve
-- the kind of builder you are becoming
+Keep it honest, specific, and easy to scan.
 
 ---
 
 ## At A Glance
 
-- Currently building:
-  `project-or-theme`
-- Core strengths:
-  `frontend` `backend` `mobile` `systems` `AI`
-- Open to:
-  collaboration, freelance, internships, full-time roles, open source
+<table>
+<tr>
+<td width="33%" valign="top">
+
+<strong>Currently building</strong>
+
+<ul>
+  <li><code>project-or-theme</code></li>
+  <li>one strong area of focus</li>
+  <li>one practical outcome you care about</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Core strengths</strong>
+
+<ul>
+  <li>frontend or mobile</li>
+  <li>backend or systems</li>
+  <li>product thinking or AI</li>
+</ul>
+
+</td>
+<td width="33%" valign="top">
+
+<strong>Open to</strong>
+
+<ul>
+  <li>collaboration</li>
+  <li>freelance or consulting</li>
+  <li>internships or full-time roles</li>
+</ul>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -31,30 +73,33 @@ Write two short paragraphs about:
 
 ### [Project One](https://github.com/your-username/project-one)
 
-One short paragraph that explains the product, the problem, and why it matters.
+One short paragraph explaining the product, the user problem,
+and why the work is worth noticing.
 
-`Stack` `Stack` `Stack`
+`TypeScript` `React` `PostgreSQL`
 
 ### [Project Two](https://github.com/your-username/project-two)
 
-One short paragraph that explains the product, the problem, and why it matters.
+One short paragraph explaining the product, the user problem,
+and why the work is worth noticing.
 
-`Stack` `Stack` `Stack`
+`Flutter` `Firebase` `Mobile`
 
 ### [Project Three](https://github.com/your-username/project-three)
 
-One short paragraph that explains the product, the problem, and why it matters.
+One short paragraph explaining the product, the user problem,
+and why the work is worth noticing.
 
-`Stack` `Stack` `Stack`
+`Python` `FastAPI` `AI`
 
 ---
 
 ## How I Like To Build
 
-- Start from the problem.
-- Build things people can actually use.
-- Care about clarity, maintainability, and delivery.
-- Make handoff easier for the next person.
+- Start with the problem.
+- Prefer useful systems over demo-only projects.
+- Care about clarity, maintainability, and handoff.
+- Leave things better structured than you found them.
 
 ---
 
@@ -62,7 +107,7 @@ One short paragraph that explains the product, the problem, and why it matters.
 
 `TypeScript` `Python` `React` `Next.js` `Node.js` `PostgreSQL`
 
-Add only the tools you can comfortably defend in conversation.
+Add only tools you can defend in conversation.
 
 ---
 
