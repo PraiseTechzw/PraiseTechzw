@@ -16,6 +16,10 @@
 
 <code>PROFILE NODE // ONLINE</code> &nbsp; <code>CHINHOYI, ZIMBABWE</code> &nbsp; <code>OPEN TO COLLABORATION</code>
 
+<br /><br />
+
+<a href="https://github.com/PraiseTechzw"><img src="https://komarev.com/ghpvc/?username=PraiseTechzw&label=PROFILE+VIEWS&color=00F5E9&labelColor=07111F&style=for-the-badge" alt="Profile views" /></a>
+
 </div>
 
 ---
@@ -69,6 +73,10 @@ I build for environments where software has to be more than impressive in a demo
 ## `05 / SIGNAL FEED`
 
 <div align="center">
+
+<a href="https://github.com/PraiseTechzw"><img src="https://github-readme-activity-graph.vercel.app/graph?username=PraiseTechzw&custom_title=LIVE%20CODING%20ACTIVITY&bg_color=07111F&color=E9D5FF&line=00F5E9&point=FF4ECD&area_color=BB86FC&area=true&hide_border=true&radius=12" width="95%" alt="Live coding activity graph for PraiseTechzw" /></a>
+
+<br />
 
 <a href="https://github.com/PraiseTechzw"><img src="https://github-readme-stats.vercel.app/api?username=PraiseTechzw&show_icons=true&hide_border=true&bg_color=07111F&title_color=00F5E9&text_color=E9D5FF&icon_color=FF4ECD&ring_color=BB86FC&include_all_commits=true" height="165" alt="Praise Masunga's GitHub statistics" /></a>
 <a href="https://github.com/PraiseTechzw"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&hide_border=true&bg_color=07111F&title_color=00F5E9&text_color=E9D5FF&icon_color=FF4ECD&langs_count=8" height="165" alt="Praise Masunga's top languages" /></a>
