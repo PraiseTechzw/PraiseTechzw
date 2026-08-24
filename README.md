@@ -1,271 +1,114 @@
-<!--
-Forking this profile README?
-
-Use the structure, not the identity.
-- Replace the headline and short bio first.
-- Keep only the projects you can explain with confidence.
-- Remove any section you will not maintain.
-- Swap every link, handle, and contact detail with your own.
--->
-
 <div align="center">
 
-<a href="https://praisetech.tech">
-  <img
-    width="100%"
-    alt="Praise Masunga profile header"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:162032,35:8c3b1f,68:d97706,100:0f766e&height=220&section=header&text=Praise%20Masunga&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Building%20useful%20software%20from%20Zimbabwe%20for%20Africa%20and%20the%20world&descAlignY=58&descSize=18&descColor=f8fafc&animation=fadeIn"
-  />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:164e63,75:0f766e,100:14b8a6&height=230&section=header&text=Praise%20Masunga&fontSize=54&fontColor=f8fafc&fontAlignY=38&desc=Product-minded%20software%20engineer%20%7C%20Founder%20%7C%20Systems%20builder&descAlignY=62&descSize=17&descColor=ccfbf1&animation=fadeIn" width="100%" alt="Praise Masunga profile header" />
 
-## Product-minded software engineer, founder, and systems builder
+# Praise Masunga
 
-I build software for real people, real constraints, and real growth:
-developer tooling, student wellness, mobility, climate resilience,
-field diagnostics, and modern internal platforms.
+### Product-minded software engineer building useful systems for real people
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-praisetech.tech-111827?style=for-the-badge&logo=firefox&logoColor=white)](https://praisetech.tech)
-[![Pages Showcase](https://img.shields.io/badge/Pages-Profile_Showcase-0f766e?style=for-the-badge&logo=githubpages&logoColor=white)](https://praisetechzw.github.io/PraiseTechzw/)
-[![Email](https://img.shields.io/badge/Email-praisetechzw%40gmail.com-c2410c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Praise_Masunga-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praisemasunga/)
-[![GitHub](https://img.shields.io/badge/GitHub-@PraiseTechzw-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PraiseTechzw)
+<a href="https://praisetech.tech"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/praisemasunga/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:praisetechzw@gmail.com"><img src="https://img.shields.io/badge/Email-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/PraiseTechzw"><img src="https://img.shields.io/badge/GitHub-PraiseTechzw-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-![Location](https://img.shields.io/badge/Based%20in-Zimbabwe-0f766e?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Mobile%20%7C%20Web%20%7C%20Cloud%20%7C%20AI-d97706?style=flat-square)
-![Open To](https://img.shields.io/badge/Open%20to-Collaboration%20and%20impact-8c3b1f?style=flat-square)
+**Based in Chinhoyi, Zimbabwe · Open to product engineering, consulting, collaboration, and mission-driven work**
 
 </div>
 
 ---
 
-## Why I Build
+## About
 
-I am interested in software that survives contact with real life.
-That means products with actual users, messy constraints, and outcomes that matter.
+I design and build practical **web, mobile, and AI products** for real users, especially in Zimbabwe and across Africa. My work combines product thinking, interface design, full-stack engineering, developer tooling, and systems that must operate under real-world constraints.
 
-From Zimbabwe, I am building toward a career defined by useful systems:
-tools for students, tools for developers, tools for operators, and products
-that make technology feel more local, more practical, and more empowering.
+I am particularly interested in products that make technology more local, more accessible, and more useful: tools for developers, students, operators, communities, and organisations solving meaningful problems.
 
-> "Africa doesn't lack talent. It lacks infrastructure, opportunity, and the right tools in the right hands."
+> **My principle:** start with the user problem, build with clarity, and leave behind systems that the next person can confidently maintain.
 
----
+## Selected work
 
-## At A Glance
+### [VENCURE-H](https://github.com/PraiseTechzw/Vencure-Digital-Assistant)
 
-<table>
-<tr>
-<td width="33%" valign="top">
+A Zimbabwe-focused snake-safety and risk-intelligence platform designed to help people respond calmly to suspected snakebite, find relevant healthcare support, learn prevention guidance, and contribute structured community reports.
 
-<strong>Currently building</strong>
+`Expo` `React Native` `TypeScript` `Express` `Supabase` `PostgreSQL`
 
-<ul>
-  <li><code>@traisetech/autopilot</code></li>
-  <li>product-grade apps and platforms</li>
-  <li>open-source tools with real utility</li>
-</ul>
+### [Autopilot CLI](https://github.com/PraiseTechzw/autopilot-cli)
 
-</td>
-<td width="33%" valign="top">
+A local Git automation tool that helps developers stay in flow through safe change batching, conventional commit preparation, protected-branch checks, secret-pattern detection, normal Git pushes, and an optional live dashboard.
 
-<strong>Core strengths</strong>
+`Node.js` `TypeScript` `CLI` `Git` `AI`
 
-<ul>
-  <li>mobile and frontend engineering</li>
-  <li>backend systems and data design</li>
-  <li>AI features with practical use cases</li>
-</ul>
+### [Lunavo](https://github.com/PraiseTechzw/Lunavo)
 
-</td>
-<td width="33%" valign="top">
-
-<strong>Open to</strong>
-
-<ul>
-  <li>freelance and consulting</li>
-  <li>mission-driven collaboration</li>
-  <li>open source and product teams</li>
-</ul>
-
-</td>
-</tr>
-</table>
-
----
-
-## Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong><a href="https://github.com/PraiseTechzw/autopilot-cli">autopilot-cli</a></strong><br /><br />
-
-An AI-assisted Git automation CLI built to keep developers in flow.
-It watches file changes, debounces activity, prepares commits, pushes safely,
-and adds team-friendly features like dashboards, undo flows, and secret scanning.
-
-`Node.js` `TypeScript` `CLI` `AI`
-
-</td>
-<td width="50%" valign="top">
-
-<strong><a href="https://github.com/PraiseTechzw/Lunavo">Lunavo</a></strong><br /><br />
-
-A student mental wellness ecosystem with peer support, mood check-ins,
-anonymous discussion, crisis resources, gamification, and AI-guided insights.
-Built with the seriousness that care-focused products deserve.
+A student-wellness ecosystem for peer support, mood check-ins, anonymous community engagement, crisis-resource access, and carefully designed participation features.
 
 `React Native` `Expo` `Supabase` `PostgreSQL`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### [Nestiq Web](https://github.com/PraiseTechzw/nestiq-web)
 
-<strong><a href="https://github.com/PraiseTechzw/climate-space-zimbabwe-web">Climate Space Zimbabwe</a></strong><br /><br />
+A student-accommodation discovery platform focused on helping university students find housing, compare locations, access landlord contacts, and make better decisions near campus.
 
-A youth-led climate resilience platform that combines localized AI assistance,
-creative advocacy, and research-oriented content for Zimbabwean communities
-working through agricultural and environmental challenges.
+`React` `TypeScript` `Web` `Product design`
+
+### [Climate Space Zimbabwe](https://github.com/PraiseTechzw/climate-space-zimbabwe-web)
+
+A youth-led climate-resilience platform combining localized information, creative advocacy, research-oriented content, and practical technology for communities facing agricultural and environmental challenges.
 
 `Next.js` `TypeScript` `Tailwind CSS` `Vercel`
 
-</td>
-<td width="50%" valign="top">
+### [Taste of Zimbabwe](https://github.com/PraiseTechzw/recipe)
 
-<strong><a href="https://github.com/PraiseTechzw/zimbus---zimbabwe-bus-booking">ZimBus</a></strong><br /><br />
+A culinary application that preserves Zimbabwean cuisine through recipes, community sharing, multilingual content, camera-assisted ingredient exploration, and AI-supported suggestions.
 
-A modern bus booking experience designed for clarity, confidence, and speed.
-Route discovery, seat selection, notifications, and a polished customer journey
-turn a traditionally frustrating process into a smoother product.
+`React Native` `Expo` `Supabase` `AI`
 
-`React` `Vite` `Firebase` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong><a href="https://github.com/PraiseTechzw/BLEDiagnosticConsole">MeterProbe</a></strong><br /><br />
-
-A native Android BLE diagnostic tool for electricity meter protocol discovery.
-It focuses on scan reliability, GATT visibility, safe payload inspection,
-and persistent logging for technical field work.
-
-`Kotlin` `Jetpack Compose` `BLE` `Room`
-
-</td>
-<td width="50%" valign="top">
-
-<strong><a href="https://github.com/PraiseTechzw/recipe">Taste of Zimbabwe</a></strong><br /><br />
-
-A culinary app preserving Zimbabwean cuisine through multilingual recipes,
-community sharing, camera-assisted ingredient exploration, and AI-generated suggestions.
-It is both a product and a cultural archive.
-
-`React Native` `Expo` `Supabase` `Gemini AI`
-
-</td>
-</tr>
-</table>
-
----
-
-## How I Like To Build
-
-- Start with the user problem, not the stack.
-- Treat design as product infrastructure, not decoration.
-- Prefer shipping useful systems over demo-only portfolio pieces.
-- Build for reliability, clarity, and handoff, not just speed.
-- Leave enough structure behind so the next builder can move faster.
-
----
-
-## Toolbox
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>Mobile and frontend</strong><br />
-`Flutter` `React Native` `Kotlin` `Jetpack Compose` `React` `Next.js` `TypeScript` `Tailwind CSS`
-
-</td>
-<td width="50%" valign="top">
-
-<strong>Backend and data</strong><br />
-`Node.js` `FastAPI` `Laravel` `Django` `PostgreSQL` `Supabase` `Prisma` `Drizzle` `SQLite`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<strong>Cloud and delivery</strong><br />
-`Docker` `GitHub Actions` `Firebase` `Vercel` `AWS` `Google Cloud` `Azure`
-
-</td>
-<td width="50%" valign="top">
-
-<strong>What I optimize for</strong><br />
-clean interfaces, maintainable systems, practical AI, and software that earns trust
-
-</td>
-</tr>
-</table>
-
----
-
-## Right Now
-
-- growing `@traisetech/autopilot` into a tool teams can actually adopt
-- finishing a BSc in Information Technology at Chinhoyi University of Technology
-- looking for opportunities to work on ambitious products with real-world impact
-
----
-
-## Fork This Profile
-
-If this README inspires you, feel free to fork the repo and rebuild it in your own voice.
-The layout is intentionally simple to adapt, and the best version of it is the one that sounds like you.
-An [MIT License](./LICENSE) is included so reuse stays straightforward.
-There is also a premium template gallery in [templates/README.md](./templates/README.md) with animated, badge-rich, and bento-style options, a reusable starter in [templates/profile-template.md](./templates/profile-template.md), and setup notes in [docs/SETUP.md](./docs/SETUP.md).
-
-Use this formula:
-
-- one sharp headline
-- one honest mission
-- three to six proof-of-work projects
-- a concise toolbox
-- clear contact links
-
-Please change the words, projects, and links so your profile reflects your own journey.
-
----
-
-## Showcase Site
-
-A GitHub Pages showcase for this repository lives at [praisetechzw.github.io/PraiseTechzw](https://praisetechzw.github.io/PraiseTechzw/).
-
----
-
-## Connect
+## What I build with
 
 <div align="center">
 
-[Portfolio](https://praisetech.tech) •
-[Email](mailto:praisetechzw@gmail.com) •
-[LinkedIn](https://www.linkedin.com/in/praisemasunga/) •
-[Instagram](https://www.instagram.com/praisetechzw) •
-[Facebook](https://facebook.com/praisetechzw)
-
-Open to freelance, consulting, open source collaboration, and full-time opportunities that solve meaningful problems.
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,dart,kotlin,python,nodejs,express,fastapi,postgres,supabase,sqlite,docker,githubactions,vercel,firebase&perline=9" alt="Technologies: TypeScript, JavaScript, React, Next.js, Flutter, Dart, Kotlin, Python, Node.js, Express, FastAPI, PostgreSQL, Supabase, SQLite, Docker, GitHub Actions, Vercel, Firebase" />
 
 </div>
 
----
+| Focus | Tools and capabilities |
+|---|---|
+| Product engineering | React, React Native, Expo, Flutter, Next.js, TypeScript, Kotlin, Jetpack Compose |
+| Backend and data | Node.js, Express, FastAPI, Django, Laravel, PostgreSQL, Supabase, Drizzle, Prisma, SQLite |
+| Delivery and operations | Docker, GitHub Actions, Firebase, Vercel, AWS, Google Cloud, Azure |
+| Engineering interests | Developer tools, practical AI, mobile systems, data design, product UX, reliability, and local-first technology |
+
+## How I work
+
+I care about the details that make software trustworthy after the demo:
+
+- **User-first decisions:** understand the problem before choosing the stack.
+- **Clear product design:** treat usability and accessibility as engineering concerns.
+- **Responsible AI:** use AI where it creates practical value, with clear boundaries and human oversight.
+- **Reliable systems:** validate inputs, protect data, test important paths, and document decisions.
+- **Useful handoff:** structure projects so another builder can understand, run, and extend them.
+
+## Current focus
+
+- Growing Autopilot into a developer tool that teams can confidently adopt.
+- Building practical products for education, safety, wellness, climate resilience, and local communities.
+- Completing my BSc in Information Technology at Chinhoyi University of Technology.
+- Looking for ambitious product teams, collaborators, and clients working on problems that matter.
+
+## Collaboration
+
+I am open to **product engineering, freelance and consulting engagements, open-source collaboration, technical partnerships, and mission-driven teams**.
+
+If you are building something useful and need someone who can move between product thinking, interface design, mobile, backend systems, and delivery, I would be glad to connect.
 
 <div align="center">
-  <sub>Built with intention. Meant to be useful. Easy to adapt.</sub>
+
+<a href="https://praisetech.tech"><strong>Visit my portfolio</strong></a> ·
+<a href="https://www.linkedin.com/in/praisemasunga/"><strong>Connect on LinkedIn</strong></a> ·
+<a href="mailto:praisetechzw@gmail.com"><strong>Send an email</strong></a>
+
+<br /><br />
+
+<sub>Building with intention from Zimbabwe for Africa and the world.</sub>
+
 </div>
