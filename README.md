@@ -27,13 +27,15 @@ I am particularly interested in products that make technology more local, more a
 
 ## Selected work
 
-### [VENCURE-H](https://github.com/PraiseTechzw/Vencure-Digital-Assistant)
+> The two projects marked **private build** are active products currently under private development. The public repositories below are available for review.
+
+### VENCURE-H — private build
 
 A Zimbabwe-focused snake-safety and risk-intelligence platform designed to help people respond calmly to suspected snakebite, find relevant healthcare support, learn prevention guidance, and contribute structured community reports.
 
 `Expo` `React Native` `TypeScript` `Express` `Supabase` `PostgreSQL`
 
-### [Autopilot CLI](https://github.com/PraiseTechzw/autopilot-cli)
+### Autopilot CLI — private build
 
 A local Git automation tool that helps developers stay in flow through safe change batching, conventional commit preparation, protected-branch checks, secret-pattern detection, normal Git pushes, and an optional live dashboard.
 
@@ -45,7 +47,7 @@ A student-wellness ecosystem for peer support, mood check-ins, anonymous communi
 
 `React Native` `Expo` `Supabase` `PostgreSQL`
 
-### [Nestiq Web](https://github.com/PraiseTechzw/nestiq-web)
+### [Nestiq](https://github.com/PraiseTechzw/nestiq)
 
 A student-accommodation discovery platform focused on helping university students find housing, compare locations, access landlord contacts, and make better decisions near campus.
 
