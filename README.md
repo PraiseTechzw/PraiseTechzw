@@ -9,7 +9,7 @@ I design and ship web, mobile, automation, and AI products from **Zimbabwe** —
 [![Portfolio](https://img.shields.io/badge/Portfolio-praisetech.tech-1f2937?style=flat-square&logo=firefox&logoColor=white)](https://praisetech.tech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praisemasunga/)
 [![Email](https://img.shields.io/badge/Email-Say_hello-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)
-
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/PraiseTechzw/badge.svg)](https://hub.xerj.org/contributors/PraiseTechzw)
 </div>
 
 ---
