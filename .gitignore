@@ -8,3 +8,7 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Design tooling output
+.taste-skill/
+node_modules/

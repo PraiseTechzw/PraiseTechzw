@@ -15,14 +15,21 @@ This repository is organized to keep the public profile clean while still making
 |   |-- pull_request_template.md
 |   `-- workflows/
 |       |-- pages.yml
-|       `-- snake.yml
+|       `-- signals.yml
+|-- assets/
+|   |-- signals-dark.svg
+|   `-- signals-light.svg
 |-- docs/
 |   `-- SETUP.md
+|-- scripts/
+|   `-- signals.mjs
 |-- site/
 |   |-- 404.html
 |   |-- index.html
-|   |-- preview.svg
+|   |-- plates/
+|   |-- preview.png
 |   |-- robots.txt
+|   |-- sitemap.xml
 |   `-- styles.css
 |-- templates/
 |   |-- README.md
@@ -46,7 +53,10 @@ This repository is organized to keep the public profile clean while still making
 
 - `README.md`: the live GitHub profile README shown on the profile page
 - `site/`: the GitHub Pages showcase source
-- `.github/workflows/snake.yml`: automation for contribution snake assets
+- `site/plates/`: real product screenshots used by the showcase, stored as WebP
+- `assets/signals-light.svg` and `assets/signals-dark.svg`: committed figures plate for the profile README, one per GitHub theme
+- `scripts/signals.mjs`: renders the signals plate from live GitHub data; no dependencies
+- `.github/workflows/signals.yml`: refreshes the signals plate daily and commits it when the figures change
 - `.github/workflows/pages.yml`: GitHub Pages deployment workflow
 - `.github/ISSUE_TEMPLATE/`: issue templates for bugs and template requests
 - `.github/pull_request_template.md`: pull request checklist
@@ -93,6 +103,18 @@ Use the template gallery in `templates/README.md` to pick a direction before edi
 - Prefer a few strong projects over a long project wall.
 - Remove any section you will not maintain.
 - Use dynamic widgets sparingly.
+
+## Signals Plate
+
+The figures under the headline are not a third-party widget. They are two committed SVGs rendered from the GitHub API, so they load on every theme and never rate-limit into a broken image.
+
+Refresh them by hand:
+
+```bash
+GITHUB_TOKEN=... node scripts/signals.mjs
+```
+
+Without a token the script still runs, minus the contribution count. The `Refresh signals` workflow does the same thing on a daily schedule and commits only when a figure changes.
 
 ## GitHub Profile Notes
 
