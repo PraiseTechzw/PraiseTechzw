@@ -6,6 +6,7 @@
 <title>Praise Masunga, software engineer in Chinhoyi</title>
 <meta name="description" content="Praise Masunga builds web, mobile and AI systems for universities, clinics, water services and small businesses in Zimbabwe. Selected work, live products and contact.">
 <link rel="canonical" href="https://praisetechzw.github.io/PraiseTechzw/">
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
 <meta name="theme-color" content="#062b8a">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Praise Masunga, software engineer in Chinhoyi">
@@ -98,7 +99,7 @@
         <a href="https://github.com/PraiseTechzw/Lunavo"><span class="row-name">Lunavo</span><span class="row-kind">Student wellness at CUT</span><span class="row-stack">TypeScript</span></a>
       </li>
     </ul>
-    <p class="ledger-foot"><span id="ledger-count">10 projects</span> · <a href="https://github.com/PraiseTechzw?tab=repositories">all 169 repositories</a></p>
+    <p class="ledger-foot"><span id="ledger-count">10 projects</span> · <a href="https://github.com/PraiseTechzw?tab=repositories">all <span data-signal="repositories">169</span> repositories</a></p>
   </section>
 
   <section class="menu-section" aria-labelledby="menu-h">
@@ -133,10 +134,10 @@
   <section class="figures" aria-labelledby="figures-h">
     <h2 class="section-head" id="figures-h">The figures</h2>
     <dl class="figure-row">
-      <div><dt>Contributions, last year</dt><dd>6,212</dd></div>
-      <div><dt>Public repositories</dt><dd>169</dd></div>
-      <div><dt>Stars earned</dt><dd>242</dd></div>
-      <div><dt>Pull requests</dt><dd>114</dd></div>
+      <div><dt>Contributions, last year</dt><dd data-signal="contributions">6,214</dd></div>
+      <div><dt>Public repositories</dt><dd data-signal="repositories">169</dd></div>
+      <div><dt>Stars earned</dt><dd data-signal="stars">242</dd></div>
+      <div><dt>Pull requests</dt><dd data-signal="pullRequests">115</dd></div>
     </dl>
   </section>
 
@@ -174,6 +175,20 @@
     targets.forEach(function (el) { el.classList.add('reveal'); io.observe(el); });
     setTimeout(function () { targets.forEach(function (el) { el.classList.add('in'); }); }, 2500);
   }
+
+  // The figures mirror the README plate. The committed values are the fallback;
+  // signals.json is refreshed by the same workflow so the two never drift.
+  fetch('./signals.json', { cache: 'no-store' })
+    .then(function (r) { return r.ok ? r.json() : null; })
+    .then(function (s) {
+      if (!s) return;
+      var nf = new Intl.NumberFormat('en-US');
+      document.querySelectorAll('[data-signal]').forEach(function (el) {
+        var v = s[el.dataset.signal];
+        if (typeof v === 'number') el.textContent = nf.format(v);
+      });
+    })
+    .catch(function () {});
 
   // Ledger filter.
   var buttons = document.querySelectorAll('.filter-btn');

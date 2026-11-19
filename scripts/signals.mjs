@@ -129,6 +129,19 @@ async function main() {
     writeFileSync(out, plate(theme, stats));
     console.log(`wrote assets/signals-${theme}.svg`);
   }
+
+  // The showcase reads the same figures, so the README and the site cannot drift.
+  const summary = {
+    contributions,
+    repositories: own.length,
+    stars,
+    pullRequests: prs,
+    updatedAt: new Date().toISOString().slice(0, 10),
+  };
+  mkdirSync(join(root, "site"), { recursive: true });
+  writeFileSync(join(root, "site", "signals.json"), `${JSON.stringify(summary, null, 2)}\n`);
+  console.log("wrote site/signals.json");
+
   console.log(stats.map((s) => `${s.value} ${s.label.replace(/\n/g, " ")}`).join(" | "));
 }
 

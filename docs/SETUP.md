@@ -55,7 +55,7 @@ This repository is organized to keep the public profile clean while still making
 - `site/`: the GitHub Pages showcase source
 - `site/plates/`: real product screenshots used by the showcase, stored as WebP
 - `assets/signals-light.svg` and `assets/signals-dark.svg`: committed figures plate for the profile README, one per GitHub theme
-- `scripts/signals.mjs`: renders the signals plate from live GitHub data; no dependencies
+- `scripts/signals.mjs`: renders the signals plate and `site/signals.json` from live GitHub data; no dependencies
 - `.github/workflows/signals.yml`: refreshes the signals plate daily and commits it when the figures change
 - `.github/workflows/pages.yml`: GitHub Pages deployment workflow
 - `.github/ISSUE_TEMPLATE/`: issue templates for bugs and template requests
@@ -106,7 +106,7 @@ Use the template gallery in `templates/README.md` to pick a direction before edi
 
 ## Signals Plate
 
-The figures under the headline are not a third-party widget. They are two committed SVGs rendered from the GitHub API, so they load on every theme and never rate-limit into a broken image.
+The figures under the headline are not a third-party widget. They are two committed SVGs rendered from the GitHub API, so they load on every theme and never rate-limit into a broken image. The same run writes `site/signals.json`, which keeps the showcase figures in step with the README.
 
 Refresh them by hand:
 
