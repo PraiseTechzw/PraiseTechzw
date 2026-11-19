@@ -2,127 +2,94 @@
 
 # Praise Masunga
 
-### Product-minded engineer building useful software for real communities.
+**Software engineer in Chinhoyi, Zimbabwe.** I build web, mobile, and AI products for universities, clinics, water services, and small businesses.
 
-I design and ship web, mobile, automation, and AI products from **Zimbabwe** — with a focus on clear interfaces, practical workflows, and systems people can actually use.
+[![Portfolio](https://img.shields.io/badge/praisetech.tech-062b8a?style=flat-square)](https://praisetech.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-062b8a?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praisemasunga/)
+[![Email](https://img.shields.io/badge/praisetechzw@gmail.com-062b8a?style=flat-square&logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)
+[![X](https://img.shields.io/badge/@praisetech__zw-062b8a?style=flat-square&logo=x&logoColor=white)](https://x.com/praisetech_zw)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-praisetech.tech-1f2937?style=flat-square&logo=firefox&logoColor=white)](https://praisetech.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1f2937?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praisemasunga/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-1f2937?style=flat-square&logo=gmail&logoColor=white)](mailto:praisetechzw@gmail.com)
-[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/PraiseTechzw/badge.svg)](https://hub.xerj.org/contributors/PraiseTechzw)
-</div>
-
----
-
-## The short version
-
-I am a software engineer and product builder who enjoys taking an unclear problem and turning it into a focused, maintainable product.
-
-My work spans:
-
-- **Product engineering** — responsive web apps, mobile apps, dashboards, and internal tools
-- **Developer experience** — automation, Git workflows, command-line tools, and delivery systems
-- **Community-focused software** — education, wellness, climate resilience, public services, and local commerce
-- **Practical AI** — using intelligent features where they improve decisions instead of adding noise
-
-> I care less about building the biggest system and more about building the right system.
-
----
-
-## Featured build
-
-<div align="center">
-
-### [`autopilot-cli`](https://github.com/PraiseTechzw/autopilot-cli)
-
-**A safer, faster Git workflow for everyday builders.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/signals-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/signals-light.svg">
+  <img alt="6,212 contributions in the last year, 169 public repositories, 242 stars earned, 114 pull requests. TypeScript, Dart, Python, JavaScript." src="assets/signals-light.svg">
+</picture>
 
 </div>
-
-Autopilot CLI is an intelligent Git automation tool that helps developers commit and push changes without losing control of the workflow. It is the project that best represents how I like to build: small surface area, useful automation, and guardrails that respect the developer.
-
-**Why it matters:**
-
-- Reduces repetitive Git work
-- Keeps the workflow focused on shipping
-- Brings automation closer to the developer's terminal
-- Reflects my interest in tooling, reliability, and thoughtful developer experience
-
-`Python` · `CLI` · `Git automation` · `Developer productivity`
-
-[**Explore the project →**](https://github.com/PraiseTechzw/autopilot-cli)
-
----
 
 ## Selected work
 
-| Project | Focus | Built with |
+| Project | What it does | Built with |
 | --- | --- | --- |
-| [`Lunavo`](https://github.com/PraiseTechzw/Lunavo) | Student wellness, peer support, and crisis-resource access for the CUT community | TypeScript · mobile · product design |
-| [`Climate Space Zimbabwe`](https://github.com/PraiseTechzw/climate-space-zimbabwe-web) | Localized climate intelligence and resilience tools for farmers and young people | TypeScript · AI · web |
-| [`Nestiq`](https://github.com/PraiseTechzw/nestiq) | Helping university students discover accommodation near campus | Flutter · Dart · mobile |
-| [`Snapit`](https://github.com/PraiseTechzw/Snapit-preview) | Fast media capture and screen recording with a polished Android experience | Kotlin · Jetpack Compose |
-| [`Asset Register`](https://github.com/PraiseTechzw/asset-register) | Asset management and tracking for Zim Open University | TypeScript · web systems |
-| [`Paynow NodeJS SDK`](https://github.com/PraiseTechzw/Paynow-NodeJS-SDK) | Developer tooling for Zimbabwean payment integrations | Node.js · SDK design |
+| **[autopilot-cli](https://github.com/PraiseTechzw/autopilot-cli)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/autopilot-cli?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/autopilot-cli/stargazers) | Python CLI for bounded, inspectable AI-assisted development. The AI can read your repository; it cannot modify it without an explicit flag. | Python · VS Code |
+| **[Taste of Zimbabwe](https://github.com/PraiseTechzw/recipe)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/recipe?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/recipe/stargazers) | Recipe discovery app with saved favourites and step-by-step cooking. Published on Google Play. | Android · Web |
+| **[itrack-zimbabwe](https://github.com/PraiseTechzw/itrack-zimbabwe)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/itrack-zimbabwe?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/itrack-zimbabwe/stargazers) | ERP covering inventory, purchases, sales, accounting, and requisitions for a Zimbabwean distributor. | PHP · MySQL |
+| **[borewatch](https://github.com/PraiseTechzw/borewatch)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/borewatch?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/borewatch/stargazers) | Borehole registration, permit workflow, and field inspection, with a preliminary groundwater-risk screen. | Postgres · TypeScript |
+| **[CUT SmartFix](https://github.com/PraiseTechzw/cut-smartfix)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/cut-smartfix?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/cut-smartfix/stargazers) | Campus maintenance for students, ICT technicians, physical-maintenance staff, security, and administrators. Android and web. | TypeScript |
+| **[CUT ICT Helpdesk](https://github.com/PraiseTechzw/CUT-ICT-HELPDESK)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/CUT-ICT-HELPDESK?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/CUT-ICT-HELPDESK/stargazers) | Support ticket management for the university's ICT department. | PHP |
+| **[Teachfolio](https://github.com/PraiseTechzw/teachfolio)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/teachfolio?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/teachfolio/stargazers) | Lesson planning, reflection, and evidence portfolios for teachers. Institution-scoped auth and private storage. | TypeScript · Supabase |
+| **[mama-mobile](https://github.com/PraiseTechzw/mama-mobile)** &nbsp; [![stars](https://img.shields.io/github/stars/PraiseTechzw/mama-mobile?style=flat-square&label=%E2%98%85&color=062b8a)](https://github.com/PraiseTechzw/mama-mobile/stargazers) | Pregnancy guidance for expecting mothers in English, ChiShona, and isiNdebele. | TypeScript |
 
-[**Browse all repositories →**](https://github.com/PraiseTechzw?tab=repositories)
+Also: [Paynow NodeJS SDK](https://github.com/PraiseTechzw/Paynow-NodeJS-SDK) (Zimbabwe's payment gateway), [mamas-shop](https://github.com/PraiseTechzw/mamas-shop) (offline sales, stock, and customer credit), [Lunavo](https://github.com/PraiseTechzw/Lunavo) (student wellness and peer support at CUT).
 
----
+## Why the work looks like this
 
-## My working toolkit
+Almost every project above runs inside an institution, and that changes the engineering well before it changes the interface.
+
+- **Connectivity is not assumed.** A shop records sales, stock, and customer credit offline, then reconciles when the network returns.
+- **English is not the default.** Maternal-health guidance ships in ChiShona and isiNdebele as first languages, not as translations bolted on at the end.
+- **Identity is institutional.** Students, technicians, reviewers, and admins see different data, so roles, scoping, and audit trails come before features.
+- **Payments run through Paynow,** not Stripe, which means owning the SDK when the existing one falls short.
+
+## Flagship: Autopilot CLI
+
+[Autopilot](https://github.com/PraiseTechzw/autopilot-cli) is where I work out what AI tooling should feel like in a normal developer's terminal. **1.1.0** is the current stable release.
+
+The premise is that an agent should be inspectable and bounded. In practice that means:
+
+- Requests are read-only, with credentials redacted before they leave the machine.
+- Commits require `--allow-medium`; high-severity review findings block the workflow outright.
+- Deterministic local work comes first: project analysis, test discovery, secret scanning, and Git checkpoints with an append-only flight recorder.
+- Providers are adapters, so it runs against OpenRouter, any OpenAI-compatible gateway, or no model at all.
+
+There is a VS Code dashboard alongside the CLI. `pip install` the wheel from the releases page, or [try the web tool](https://autopilot-cli.praisetech.tech/).
+
+## Stack
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-1f2937?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-1f2937?style=flat-square&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-1f2937?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-1f2937?style=flat-square&logo=flutter&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-1f2937?style=flat-square&logo=kotlin&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-1f2937?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-1f2937?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1f2937?style=flat-square&logo=githubactions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-062b8a?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-062b8a?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-062b8a?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-062b8a?style=flat-square&logo=kotlin&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-062b8a?style=flat-square&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-062b8a?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-062b8a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-062b8a?style=flat-square&logo=flutter&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-062b8a?style=flat-square&logo=nodedotjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-062b8a?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-062b8a?style=flat-square&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-062b8a?style=flat-square&logo=docker&logoColor=white)
 
 </div>
 
-### How I approach projects
+## How I work
 
-1. **Start with the user problem** — understand the context before choosing the stack.
-2. **Make the first version legible** — simple flows beat impressive complexity.
-3. **Build for the real environment** — connectivity, devices, skills, and operational constraints matter.
-4. **Add intelligence carefully** — automation should make people more capable, not less informed.
-5. **Leave a useful handoff** — the next developer should be able to run, understand, and extend the work.
+1. Start with the operational problem, not the stack.
+2. Ship the smallest version that a real user can finish a real task in.
+3. Design for the environment it lands in: the device, the connection, the language, the person using it.
+4. Leave a handoff. The next developer should be able to run it, read it, and extend it without asking me.
 
----
+## Now
 
-## What I am working toward
-
-- Growing **Autopilot CLI** into a dependable developer tool.
-- Building software that supports education, safety, wellness, climate resilience, and local communities.
-- Deepening my skills across product engineering, mobile systems, backend architecture, and applied AI.
-- Collaborating with thoughtful founders, teams, students, and open-source contributors.
-
----
-
-## A few GitHub signals
+- Maintaining Autopilot CLI and its VS Code extension.
+- Building institutional software around Chinhoyi University of Technology.
+- Open to collaboration on education, health, water, and civic infrastructure.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PraiseTechzw&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111827&text_color=4b5563&icon_color=2563eb" alt="Praise Masunga's GitHub statistics" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraiseTechzw&layout=compact&hide_border=true&bg_color=ffffff&title_color=111827&text_color=4b5563" alt="Most used languages" height="165" />
+**[praisetech.tech](https://praisetech.tech)** · **[LinkedIn](https://www.linkedin.com/in/praisemasunga/)** · **[Email](mailto:praisetechzw@gmail.com)**
 
-</div>
-
----
-
-<div align="center">
-
-### Building useful things, one clear interface at a time.
-
-[Portfolio](https://praisetech.tech) · [LinkedIn](https://www.linkedin.com/in/praisemasunga/) · [Email](mailto:praisetechzw@gmail.com)
-
-<sub>Based in Chinhoyi, Zimbabwe · Open to collaboration</sub>
+<sub>Chinhoyi, Zimbabwe · <a href="https://praisetechzw.github.io/PraiseTechzw/">Profile site</a> · <a href="templates/README.md">Profile templates</a></sub>
 
 </div>

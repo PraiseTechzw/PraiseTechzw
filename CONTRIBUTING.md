@@ -8,7 +8,7 @@ This repository is primarily for:
 
 - the live GitHub profile README
 - reusable profile README inspiration
-- lightweight automation such as the contribution snake workflow
+- lightweight automation such as the signals plate workflow
 - documentation that helps others fork and adapt the structure
 
 ## Contribution Style
